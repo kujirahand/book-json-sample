@@ -1,0 +1,21 @@
+[
+    {
+        "type": "line",
+        "xy": [10, 10, 400, 200],
+        "color": "blue",
+        "width": 5
+    },
+    {
+        "type": "line",
+        "xy": [10, 10, 400, 400],
+        "color": "red",
+        "width": 5
+    },
+    {
+        "type": "rect",
+        "xy": [400, 200, 700, 400],
+        "fill": "orange",
+        "border": "green",
+        "width": 5
+    }
+]

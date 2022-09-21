@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve flask_https
+After=network.target
+
+[Service]
+User=kujira
+Group=www-data
+WorkingDirectory=/var/www/flask_https
+ExecStart=uwsgi --ini /var/www/flask_https/flask_https.ini
+
+[Install]
+WantedBy=multi-user.target
+

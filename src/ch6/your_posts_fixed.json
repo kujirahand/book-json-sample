@@ -1,0 +1,2442 @@
+[
+  {
+    "timestamp": 1471429851,
+    "data": [
+      {
+        "post": "今さらなんですが、LINEスタンプを作ってみました。ラクガキのパンダに表情をつけて、コメントを載せてみました。空き時間に作業したのですが楽しかったです。前から作ってみたいと思っていたのに、なかなか時間がなくて今頃。でも、やってみたら、あっという間にできたので、もっと早くやれば良かったと反省しました。絵は専門ではないので、本当にラクガキですが、良かったら使ってみてください！！\n■レッツパンダ\nhttps://store.line.me/stickershop/product/1309950/ja"
+      }
+    ]
+  },
+  {
+    "timestamp": 1478394237,
+    "data": [
+      {
+        "post": "「実践力を身につける Pythonの教科書」を執筆しました！これからプログラミング言語Pythonを学ぼうと思っている人にぴったりの本になりました！良かったら書店で手に取ってみてください。\n\nhttps://goo.gl/LZBHh5\n\n内容は、Pythonのポイントを押さえつつ、分かりやすいサンプルプログラムを豊富に掲載しました。Pythonの基本文法を、しっかりマスターすることができます。実践編では、Webアプリ/デスクトップアプリ/機械学習まで、幅広くPythonの雰囲気を掴める本に仕上がりまってます！"
+      }
+    ]
+  },
+  {
+    "timestamp": 1480129833,
+    "data": [
+      {
+        "post": "牛丼の写真からカロリーを算出してみよう！など、機械学習で面白い例題を扱った、スクレイピングと機械学習の本を書きました。難しい理論どうこうではなく、実践に重きを置いていますので、見てみてください。\n\n12/6発売ですが、11/30午後から次の書店で先行発売します。ご近所の方は手に取ってみてください！・・・丸善本店（丸の内）/紀伊國屋本店（新宿）/ブックファースト新宿店/三省堂本店（神田神保町）/ジュンク堂池袋店\n\n『Pythonによるスクレイピング&機械学習 開発テクニック BeautifulSoup,scikit-learn,TensorFlowを使ってみよう』\n(Amazon) https://goo.gl/vDn2xT"
+      }
+    ]
+  },
+  {
+    "timestamp": 1495553096,
+    "data": [
+      {
+        "post": "自著『やさしくはじめるラズベリー・パイ ~電子工作で簡易ロボット&ガジェットを作ってみよう』が本日発売です！書店で見かけたら、手に取ってみてください。フルカラーで、とても楽しげな本に仕上がってます！\nhttps://goo.gl/cP75Rv"
+      }
+    ]
+  },
+  {
+    "timestamp": 1498199007,
+    "data": [
+      {
+        "post": "日経のコラムをまとめた著書『仕事がはかどるJavaScript“超\"活用術 AI、セキュリティ、クラウドを自動処理』が日経BP社より発売されました★ミ\n\nhttps://www.amazon.co.jp/dp/4822259269?tag=text2musiccom-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4822259269&adid=0GBCV156ZEVN97XDR1FR&"
+      }
+    ]
+  },
+  {
+    "timestamp": 1502938803,
+    "data": [
+      {
+        "post": "『いまどきのJSプログラマーのための Node.jsとReactアプリケーション開発テクニック』が発売されました！去年・今年と、たくさん本書きました。たぶん大きめの書店のPCコーナーにもあるので、良かったら手に取って見てください！最近のJavaScriptとReactについて書いた本です。\n\nhttps://www.amazon.co.jp/dp/4802611145?tag=text2musiccom-22&camp=243&creative=1615&linkCode=as1&creativeASIN=4802611145&adid=145DSZNFJSXYPXP7R9P7&"
+      }
+    ]
+  },
+  {
+    "timestamp": 1508073160,
+    "data": [
+      {
+        "post": "[祝] ラズパイ本、重版出来！やった。苦労して書いた甲斐がありました。紙の本だけでなく、Kindle版も出ました。\nhttps://goo.gl/cP75Rv"
+      }
+    ]
+  },
+  {
+    "timestamp": 1512352783,
+    "data": [
+      {
+        "post": "なでしこ連載17回目「履歴書を書くのに便利な学歴計算ツールを作ってみよう」(マイナビニュース)が掲載されました！\n地味に便利ですが、プログラミングの基礎を学ぶのにピッタリの題材です。\nhttps://news.mynavi.jp/article/nadeshiko-17/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1515588058,
+    "data": [
+      {
+        "post": "連載20回目「Python2行でカレンダー」がマイナビニュースで公開されました！Pythonのcalendarモジュール便利すぎです。#python #カレンダー\nhttps://news.mynavi.jp/article/zeropython-20/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1515986042,
+    "data": [
+      {
+        "post": "先日、変体仮名など日本の文字がたくさん追加されたISO/IEC 10646を受けて書いた『どんな文字が表示できるか - 文字コード表を作ってみよう』 日本語プログラミング言語「なでしこ」の連載19回目がマイナビニュースに掲載されました！\nhttps://news.mynavi.jp/article/nadeshiko-19/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1517191747,
+    "data": [
+      {
+        "post": "「いったい16進数とは何だろう？ - 一覧表示ツールを作ろう(マイナビ連載20回目)」が掲載されました。なでしこのキーマンであるEZNAVIさんとのインタビューもあります！ #日本語プログラミング言語なでしこ\nhttps://news.mynavi.jp/article/nadeshiko-20/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1517583810,
+    "data": [
+      {
+        "post": "著書『ゼロからやさしくはじめるPython入門 ~基本からスタートして、ゲームづくり、機械学習まで楽しく学ぼう! 』がマイナビ出版から発売になりました！近所の本屋さんで見かけたら、手に取ってみてください！(もちろんAmazonでも買えます。)プログラミングの初歩から、ゲーム開発や機械学習について詳しく紹介しています。\nhttps://goo.gl/DS9oua"
+      }
+    ]
+  },
+  {
+    "timestamp": 1518446910,
+    "data": [
+      {
+        "post": "著書『ゼロからやさしくはじめるPython入門(マイナビ)』ですが、めでたく重版出来となりました！皆様の応援に感謝です！それで、イラストレーターの方が応援ポップを作ってくれました。(Amazon→ https://goo.gl/DS9oua) ちなみに、このイラストのキャラですが、私の写真を参考に描いてくださったとのこと、友人からも「似てる」って言われますが、皆さんもそう思いますか？"
+      }
+    ]
+  },
+  {
+    "timestamp": 1518508227,
+    "data": [
+      {
+        "post": "「真剣にFizzBuzz問題を解いてみよう - マイナビ/なでしこ連載21回」が公開されました。FizzBuzz問題を解くには、プログラミングの基礎がしっかり出来ている必要があるので、真剣に取り組むなら、プログラミングレベルアップ間違いなしです。\nhttps://news.mynavi.jp/article/nadeshiko-21/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1519620758,
+    "data": [
+      {
+        "post": "天気APIを使ってみよう - 日本語プログラミング言語なでしこ - マイナビ連載の22回目」が公開されました！なでしこv3でWeb APIを使う方法を紹介してます。\nhttps://news.mynavi.jp/article/nadeshiko-22/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1520213830,
+    "data": [
+      {
+        "post": "『ついにMacでPython3がデフォルトに?! - Python2と3のどちらを使えば良い？ マイナビ連載24回目ゼロからはじめるPython』が公開されました。先日、HomebrewでPython3がデフォルトになったという話です。\nhttps://news.mynavi.jp/article/zeropython-24/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1520825359,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」の連載23回目「自動車で15分の場所、歩くと何分かかる？」が公開されました。タクシーで行くといくら？という点も含めて、マイカーが必要かどうか検討するのに役立つ内容になってます！日本語プログラミング言語ならではの見やすいプログラムになってます。\nhttps://news.mynavi.jp/article/nadeshiko-23/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1521680227,
+    "data": [
+      {
+        "post": "「Go言語」は実行が速くて覚えやすいモダンなプログラミング言語/世界のプログラミング言語」-マイナビ連載が掲載されました。Go言語で、Go,Go,Go!\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-3/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1522307257,
+    "data": [
+      {
+        "post": "燃費計算ツールを作ってみよう！ーゼロからはじめてみる日本語プログラミング24回目ーが公開されました！\nhttps://news.mynavi.jp/article/nadeshiko-24/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1522633048,
+    "data": [
+      {
+        "post": "連載26回目 インストール不要で無料で使える最強Python環境Colaboratoryを使ってみよう が掲載されました。Colaboratoryは無料ですごい。\nhttps://news.mynavi.jp/article/zeropython-26/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1523239910,
+    "data": [
+      {
+        "post": "連載25回『生物シミュレーション『ライフゲーム』を日本語で作ってみよう』がマイナビニュースで公開されました。ライフゲームを作ると、グラフィックスやマウスの扱い方を学ぶことができます。\nhttps://news.mynavi.jp/article/nadeshiko-25/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1524033522,
+    "data": [
+      {
+        "post": "『長年愛されてきた「Visual Basic」を改めて評価してみよう - マイナビニュース』が掲載されました！学生時代から大好きだったVBについての記事を書いてみました。(MSX-BASICにも言及してみました)\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-4/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1524458473,
+    "data": [
+      {
+        "post": "『なでしこ連載26回/アナログ時計を作ろう - マイナビニュース』が掲載されました。プログラミングの練習でよくあるアナログ時計作りですが、時計は身近な題材なので、作ってみると楽しいです。\nhttps://news.mynavi.jp/article/nadeshiko-26/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525159435,
+    "data": [
+      {
+        "post": "本日『最強Python環境Colaboratoryを使いこなそう/マイナビ』が公開されました。その1に続いて、その2が公開されました。GWは無料のPython機械学習環境Colaboratoryで遊び倒そう!!\n\nその1 - https://news.mynavi.jp/article/zeropython-27/\nその2 - https://news.mynavi.jp/article/zeropython-28/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1525159880,
+    "data": [
+      {
+        "post": "『日本が世界に誇る「Ruby」は楽しくプログラムが書ける言語』が公開されました！ - 日本が世界に誇るRubyについて書いてみました。そして、Ruby開発者まつもとさんとの秘話も書いています。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-5/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1526275475,
+    "data": [
+      {
+        "post": "直近100件のメールで誰が一番多くメールをくれたのか調べよう\nhttps://news.mynavi.jp/article/zeropython-29/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1526873666,
+    "data": [
+      {
+        "post": "不要ファイルの自動削除ツールを8行で作成しよう/マイナビなでしこ連載28回目が掲載されました。なでしこ3(PC版)でも、それなりにバッチ処理できるようになってきました！\nhttps://news.mynavi.jp/article/nadeshiko-28/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1527521683,
+    "data": [
+      {
+        "post": "マイナビ連載『9行で住所入力フォームを自動化しよう』が掲載されました!! Web APIを使ってガジェットを作る方法を紹介しています。\nhttps://news.mynavi.jp/article/nadeshiko-29/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1528085674,
+    "data": [
+      {
+        "post": "QRコード大量生産で段ボールの中身を\"見える化\" -- マイナビPython連載30回目が掲載されました！QRコードはデジタル・アナログの融合に役立ちます！\nhttps://news.mynavi.jp/article/zeropython-30/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529301751,
+    "data": [
+      {
+        "post": "Pythonから英単語データベースを操作してみようーマイナビ連載ーフリーの英和辞書DBを操作する方法を紹介してます。\nhttps://news.mynavi.jp/article/zeropython-31/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529469889,
+    "data": [
+      {
+        "post": "身近にある刺激的な言語「JavaScript」(マイナビ連載)が掲載されました。 （個人的にJavaScriptを愛しているのですが、その愛を文章にするのは難しいですねー。）\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-6/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1529904445,
+    "data": [
+      {
+        "post": "Webストレージを使ってメモ帳を作ろう/なでしこ-マイナビ連載31回目。今回は、Webブラウザで使える自作メモ帳のつくり方を紹介しています。興味があれば見てみてください！\nhttps://news.mynavi.jp/article/nadeshiko-31/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1531069642,
+    "data": [
+      {
+        "post": "うっかり宣伝忘れてました。先日書いた機械学習の本が出版されてました。「うちにもひとつ機械学習とやらを」という強烈なキャッチコピーが目を引いてます。（そして、なぜか、Amazonでは定価より高い販売店がデフォルトの購入ボタンに設定されていますが、「5 新品」のリンクから、定価で買えます。）\nhttps://amzn.to/2sWAMrM"
+      }
+    ]
+  },
+  {
+    "timestamp": 1531108160,
+    "data": [
+      {
+        "post": "WebストレージでTODOリストを作ろう(マイナビなでしこ連載32回目) 自作のWebガジェットを作ろう！\nhttps://news.mynavi.jp/article/nadeshiko-32/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1531806530,
+    "data": [
+      {
+        "post": "英単語で正規表現を学ぼう！マイナビPython連載が掲載されました！\n正規表現使える人と使えない人では人生変わりそう\nhttps://news.mynavi.jp/article/zeropython-33/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1533279358,
+    "data": [
+      {
+        "post": "Webのために生まれWebに愛されている言語「PHP」-マイナビニュースが公開されました! - 私も大好きなPHPについて書きました！\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-7/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1534731847,
+    "data": [
+      {
+        "post": "ほろ酔いの公式を日本語プログラミング/マイナビなでしこ連載が公開されました！どのくらい飲んだら飲み過ぎ？「暑い」を言い訳にした飲み過ぎに注意しましょう！\nhttps://news.mynavi.jp/article/nadeshiko-34/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1535941266,
+    "data": [
+      {
+        "post": "日本語プログラミングで野鳥カウンタを作ろう/マイナビ連載35回目が掲載されました！身近なツールを自作するのは楽しいものです。\nhttps://news.mynavi.jp/article/nadeshiko-35/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1536594755,
+    "data": [
+      {
+        "post": "PythonでExcelファイルに自動入力-マイナビ連載37回目が掲載されました！PythonとExcelを連携させると文句なしに便利！\nhttps://news.mynavi.jp/article/zeropython-37/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1538639539,
+    "data": [
+      {
+        "post": "『ゲーム開発やツール作成に役立つホビー言語「HSP」-マイナビ連載』が掲載されました！今回は「HSP」について書きました。開発者のおにたまさんのインタビューもあります。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-9/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1538641919,
+    "data": [
+      {
+        "post": "今度の10月21日に、日本語プログラミング言語「なでしこ」で交流会＋懇親会を計画しています。なでしこユーザーの皆さん、横浜で会いましょう！\n\nhttps://nadesi.com/doc2/go.php?81"
+      }
+    ]
+  },
+  {
+    "timestamp": 1539008888,
+    "data": [
+      {
+        "post": "『Pythonで不要ファイルを一括削除しよう』 マイナビPython連載第38回、掲載されていました。うっかり、告知しそびれました。普通にファイル削除するだけでなく、Pythonで削除したファイルをゴミ箱に入れる方法も紹介しています。\nhttps://news.mynavi.jp/article/zeropython-38/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1539049482,
+    "data": [
+      {
+        "post": "音声合成APIで時報アプリを作ろう/マイナビなでしこ連載-掲載されました。最近のWebブラウザに搭載されている音声合成APIを使うと、ブラウザがしゃべりまくるので面白いです！\n\nhttps://news.mynavi.jp/article/nadeshiko-37/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1539590409,
+    "data": [
+      {
+        "post": "Pythonで100枚の画像にコピーライトを書き込もう-マイナビ連載が掲載されました！大量の画像に文字を書き込む機会って結構あるんですよねー。参考にどうぞ！\nhttps://news.mynavi.jp/article/zeropython-39/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1541387724,
+    "data": [
+      {
+        "post": "Pythonで連番リネームに挑戦しよう/マイナビ連載40回目が掲載されました。基本的なファイル処理ですが、Pythonでやると自由度が格段に高いです！\n\nhttps://news.mynavi.jp/article/zeropython-40/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1542595151,
+    "data": [
+      {
+        "post": "ファイルの内容に応じて自動でファイル名をつけよう/マイナビPython連載41回目 - ファイルリネーム回の続きです!\n\nhttps://news.mynavi.jp/article/zeropython-41/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543219308,
+    "data": [
+      {
+        "post": "Pythonで写真に埋め込まれているGPS情報から撮影場所を調べよう/マイナビ連載42回目 - PythonでGPS情報の活用方法を紹介します。写真からGPS情報を取り出す方法と、緯度経度から地名を手軽に調べる方法を紹介してます。\nhttps://news.mynavi.jp/article/zeropython-42/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1543978332,
+    "data": [
+      {
+        "post": "全ての言語の親分的存在「C/C++」言語/マイナビニュース連載が掲載されました。連載11回目で、ようやく親玉について言及。次はどんな言語を扱おうかな？\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-11/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1545208318,
+    "data": [
+      {
+        "post": "好評だった『Pythonによるスクレイピング&機械学習 開発テクニック』の増補改訂版がついに発売になりました！書店で見かけたら、手に取ってみてください！最新の環境に対応しました。\nhttps://amzn.to/2A8OATv"
+      }
+    ]
+  },
+  {
+    "timestamp": 1545980501,
+    "data": [
+      {
+        "post": "Pythonを使ったWebサイトは百円で運用できる(その1) - マイナビ連載が掲載されました。知っている人には、大した内容じゃないんですけど、百円というインパクトにかけてみました。ちなみに、年末年始も休まずガンガン働きます！\nhttps://news.mynavi.jp/article/zeropython-43/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1545981009,
+    "data": [
+      {
+        "post": "次に学ぶべき実用性重視の関数型言語は「Scala」で決まり！? - マイナビ連載が掲載されました。連投ですみません！冬休みにゆったり挑戦してみてはどうでしょうか？\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-12/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1547211942,
+    "data": [
+      {
+        "post": "『日本語プログラミングで迷路ゲームを作ってみよう/マイナビ連載40回目』が掲載されました。見下ろし型2DのRPGっぽいものを作ってみます。プログラムは、コメント含めても、100行以内。オリジナル迷路を作ってみよう！\nhttps://news.mynavi.jp/article/nadeshiko-40/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1547541499,
+    "data": [
+      {
+        "post": "Pythonを使ったWebサイトは百円で運用できる(その2) - マイナビ連載が掲載されました。メッセージボードを作りながら、Python CGIの基礎を学びます！流行のPython学習の題材としても、Webアプリ(CGI)作成は楽しいかもと思います。\nhttps://news.mynavi.jp/article/zeropython-44/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1548044619,
+    "data": [
+      {
+        "post": "日本語プログラミングで、うるう年を計算してみようーマイナビ連載が掲載されました！\n今回、初の試みで「手書き」のプログラミングに挑戦してみました。頭の整理ができるので、論理的思考を育てるのに最適？！\nhttps://news.mynavi.jp/article/nadeshiko-41/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1548428256,
+    "data": [
+      {
+        "post": "マイクロソフト発、サクサクコードが書ける人気言語「C#」-世界のプログラミング言語第13回-マイナビ連載が掲載されました！やはり、C#は、良い言語です。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-13/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549447557,
+    "data": [
+      {
+        "post": "機械学習もできるPython開発環境の構築まとめ(2019年版)/マイナビ連載45回目が掲載されました！Anaconda(Python)の最新インストール方法について紹介。\nhttps://news.mynavi.jp/article/zeropython-45/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1549933988,
+    "data": [
+      {
+        "post": "Androidの公式開発言語「Kotlin」はJavaよりも簡潔に書ける言語-世界のプログラミング言語/マイナビ連載が掲載されました。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-14/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1550454461,
+    "data": [
+      {
+        "post": "Pythonでデスクトップアプリ作成入門 - Tkinterで肥満判定ツールを作ろう/マイナビ連載46回目が公開されました。デスクトップアプリの開発は手元で動いている感じがカワイイんです！\n\nhttps://news.mynavi.jp/article/zeropython-46/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1551773317,
+    "data": [
+      {
+        "post": "SwiftはAppleが放つモダンで高速なプログラミング言語ーマイナビ連載、公開されました！Swift既に人気ですが、もっと流行りそうな予感です。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-16/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1552535512,
+    "data": [
+      {
+        "post": "オープンソースになったWindows電卓をPythonで作ってみよう！\nhttps://news.mynavi.jp/article/zeropython-47/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1553482480,
+    "data": [
+      {
+        "post": "今も根強い人気、歴史ある実用言語Perl / マイナビ連載が掲載されました。やはりPerl書くのはとても楽しいです。本文に書かなかったけど、なでしこもPerlの影響をすごく受けてます。Perlの\"$_\"が、なでしこの「それ」に相当します。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-17/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554431108,
+    "data": [
+      {
+        "post": "新年号「令和」対応の和暦変換ツールを作ってみよう/マイナビ連載が掲載されました。#日本語プログラミング #なでしこ #令和 なでしこで作る「令和」対応プログラム（＾＾）ｙ\nhttps://news.mynavi.jp/article/nadeshiko-43/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554699453,
+    "data": [
+      {
+        "post": "PythonでExcelの和暦対応表を作ってみよう - マイナビ連載が掲載されました！PythonとExcelで令和対応の和暦対応表を作ります。\nhttps://news.mynavi.jp/article/zeropython-48/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554792149,
+    "data": [
+      {
+        "post": "『憧れの関数型言語Lispは古くて最新のプログラミング言語』マイナビ連載が掲載されました！Lispについて紹介し、Scheme/GaucheでFizzBuzzを解いてみます。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-18/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554792155,
+    "data": [
+      {
+        "post": "『憧れの関数型言語Lispは古くて最新のプログラミング言語』マイナビ連載が掲載されました！Lispについて紹介し、Scheme/GaucheでFizzBuzzを解いてみます。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-18/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1554958195,
+    "data": [
+      {
+        "post": "マイナビ様で新連載始まりました！ - ゼロからはじめるGo言語。一回目はインストールから簡単なプログラムと型推論の説明まで。皆さん、応援よろしくお願いします！！\nhttps://news.mynavi.jp/article/gogogo-1/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1555662748,
+    "data": [
+      {
+        "post": "ついに小説家デビュー？！マイナビで新連載『業務課題をHackせよ! プログラミングで仕事自動化物語 - 第1話:入社早々上司にプログラミングを迫られる』\nhttps://news.mynavi.jp/article/businesshack-1/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1556421976,
+    "data": [
+      {
+        "post": "#日本語プログラミング言語なでしこ について寄せられた声を集計しました。「プログラミングに挫折したときになでしこに出会った」「孫と一緒に楽しめる」「プログラミングに縁がなくても仕事で活かせる」「よくぞ作ってくれました」など涙なしには読めません。皆さん、本当に感謝感謝です！\nhttps://nadesi.com/top/go.php?37"
+      }
+    ]
+  },
+  {
+    "timestamp": 1557139538,
+    "data": [
+      {
+        "post": "Pythonでブラウザ自動操縦してカード明細を自動でダウンロードしよう(その1)-マイナビ連載が掲載されました！Webブラウザを自動操縦する方法を紹介しています。\nhttps://news.mynavi.jp/article/zeropython-49/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1557820724,
+    "data": [
+      {
+        "post": "先輩が300個のExcelファイルを一時間で片付ける - マイナビ連載小説(二回目)が掲載されました!! お陰様で一回目は好評だったのこと応援ありがとうございます。\nhttps://news.mynavi.jp/article/businesshack-2/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1558071863,
+    "data": [
+      {
+        "post": "ゼロからはじめるGo言語【第二回】『フォルダの中にあるファイルのメールアドレスを置換するには？-マイナビ』が、掲載されました！主に、ifやforと言ったプログラムの基本である制御構文を学びます。\nhttps://news.mynavi.jp/article/gogogo-2/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1558323243,
+    "data": [
+      {
+        "post": "クレジットカードや会員番号の間違い防止どうやってるの？ー44回マイナビなでしこ連載が掲載されました！チェックディジットの仕組みについて図入りで解説してます。\n\nhttps://news.mynavi.jp/article/nadeshiko-44/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1558514962,
+    "data": [
+      {
+        "post": "Pythonでブラウザ自動操縦してカード明細を自動でダウンロードしよう(その2) - マイナビ連載が掲載されました！\nhttps://news.mynavi.jp/article/zeropython-50/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1558973959,
+    "data": [
+      {
+        "post": "著書『やさしくはじめる スマートスピーカープログラミング』が本日発売されます！Google HomeとAmazon Echoの2種類のスマートスピーカーを対象とした入門書です。基本的にプログラミング解説ですが、プログラミングなしでもいろいろできる方法を紹介しています！\nhttps://amzn.to/2W4Gw3c"
+      }
+    ]
+  },
+  {
+    "timestamp": 1559540094,
+    "data": [
+      {
+        "post": "LINEの会話ログをExcelVBAで集計するー業務課題をHackせよ、第三回マイナビ連載が掲載されました！\nhttps://news.mynavi.jp/article/businesshack-3/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1559790978,
+    "data": [
+      {
+        "post": "ブラウザで使える手書きメモをCanvas APIで作ってみようーマイナビなでしこ連載\nhttps://news.mynavi.jp/article/nadeshiko-45/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1560136869,
+    "data": [
+      {
+        "post": "実用性と先進性を両立した関数型の言語「F#」-マイナビ連載が掲載されました。F#を使うと、いろいろな処理が簡潔に書けるのが良いところです！個人的には次のプロジェクトで使いたい言語の一つです！\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-19/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1560230906,
+    "data": [
+      {
+        "post": "Pythonから自動でGmailを送信 - マイナビ連載51回目が掲載されました！メールの自動送信を覚えると、いろいろ便利ですよね。\nhttps://news.mynavi.jp/article/zeropython-51/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1561530971,
+    "data": [
+      {
+        "post": "Go言語なら10行でWebサーバーが書ける件 - マイナビ連載が公開されました!! 次回より、このサーバー機能使っていろいろ便利なツールを作る方法紹介していこうと思っています。\nhttps://news.mynavi.jp/article/gogogo-3/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1561958290,
+    "data": [
+      {
+        "post": "100個あるWordの契約書の年号を置き換えろと迫られる ! - マイナビ連載4回目が掲載されました。太田先輩が新人君とWord VBAで会社のピンチを救います。\nhttps://news.mynavi.jp/article/businesshack-4/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1562043069,
+    "data": [
+      {
+        "post": "コスプレしてマレーシアのイミグレ通ろうとした人たちが、一週間拘束されたとのこと。どこでも目立ち過ぎはNGですね。\nhttps://sp.fnn.jp/posts/00420147CX/201907021240_CX_CX"
+      }
+    ]
+  },
+  {
+    "timestamp": 1562732252,
+    "data": [
+      {
+        "post": "Pythonでちょっと使えるデスクトップ英和辞書 - 52回マイナビ連載が掲載されました。\nhttps://news.mynavi.jp/article/zeropython-52/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1562914379,
+    "data": [
+      {
+        "post": "「WebAssembly」ならブラウザで高速にCもRustもGoも動くーマイナビ連載が掲載されました！\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-20/\n\nここ最近いろんな言語がWebAssemblyがサポートしつつありますよねー"
+      }
+    ]
+  },
+  {
+    "timestamp": 1563258462,
+    "data": [
+      {
+        "post": "一杯奢るのでテキストデータを日付順に並べて欲しいーなでしこ連載46回目が掲載されました！Facebookにあった宮原さんの依頼をなでしこで解きます！\n\nhttps://news.mynavi.jp/article/nadeshiko-46/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1564978753,
+    "data": [
+      {
+        "post": "Go言語で作るメモ帳サーバー ! - マイナビGo言語連載が掲載されました。前回の続きで、GoでWebサーバーを作成し、Webブラウザから使えるメモ帳アプリを作る方法を解説します。\nhttps://news.mynavi.jp/article/gogogo-4/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1565074328,
+    "data": [
+      {
+        "post": "VBAでシステム化せよ! 毎月の成績グラフを3秒で完成させろと迫られる - 業務Hackマイナビ連載5回目が掲載。太田先輩「いつもプログラミングをするのが正しいというわけではないの。むしろプログラムを作らない方が良い場合もあるの」の真意とは？\n\nhttps://news.mynavi.jp/article/businesshack-5/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1565255714,
+    "data": [
+      {
+        "post": "夏休みに業務を自動化しよう。マイナビの連載ですが、小説を読みながら、Excel VBAなどで業務改善する方法をマスターできます。先日、5回目が掲載されました！\n\n■[5] 毎月作成する成績グラフを自動作成\nhttps://news.mynavi.jp/article/businesshack-5/\n\n■[4] 100個あるWord契約書の元号を「令和」に文字列置換\nhttps://news.mynavi.jp/article/businesshack-4/\n\n■[3] LINEの会話ログをExcelVBAで集計\nhttps://news.mynavi.jp/article/businesshack-3/\n\n■[2] 300個のExcelブックの中のシートをばらばに分ける\nhttps://news.mynavi.jp/article/businesshack-2/\n\n■[1] Excelブック中のシートをばらばらに分ける\nhttps://news.mynavi.jp/article/businesshack-1/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1566371281,
+    "data": [
+      {
+        "post": "Python vs Excel 五番勝負 - 仕事で使えるのはどちら？ーマイナビ連載が掲載されました！\nデータ読み込みやグラフ作成で競います！\nhttps://news.mynavi.jp/article/zeropython-53/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1567389134,
+    "data": [
+      {
+        "post": "夏休みに行った旅行の費用精算に役立つプログラムを作ろう-なでしこ連載47回目。自作プログラムで旅行精算を簡単に片付けよう！\nhttps://news.mynavi.jp/article/nadeshiko-47/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1567587360,
+    "data": [
+      {
+        "post": "毎月の予定表をGoogleカレンダーに自動登録したい/業務課題6回目マイナビ連載が掲載されました！ Google App Scriptを使ってGoogleカレンダーに自動登録します。\nhttps://news.mynavi.jp/article/businesshack-6/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1568081408,
+    "data": [
+      {
+        "post": "マイナビGo言語の連載が掲載されました。\n今回はGo言語のバージョン1.13リリースされたこと、ファイル一覧を表示する方法の二つを解説してます。\nhttps://news.mynavi.jp/article/gogogo-5/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1568949308,
+    "data": [
+      {
+        "post": "Javaの良さにRubyの柔軟さを掛け合わせた言語「Groovy」ーマイナビ連載が掲載されました！今もGroovy人気です！\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-21/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1569982060,
+    "data": [
+      {
+        "post": "自動でLINE通知するプログラムをExcelで作ろう - 業務Hackマイナビ連載7回目が掲載されました！ExcelからLine APIを使い倒します！根性は不要、プログラミングで解決しよう！\nhttps://news.mynavi.jp/article/businesshack-7/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1570415916,
+    "data": [
+      {
+        "post": "先日、日本語プログラミング言語「なでしこ」のバージョンアップをしたのですが、窓の杜さんで取り上げてもらいました！今回のバージョンアップでは、これまで有償だったデラックス版とフリー版を統合しました。（これには、理由があるのですが、近々、大々的に紹介できると思いますので、楽しみにしててください！）\nhttps://forest.watch.impress.co.jp/docs/news/1208939.html"
+      }
+    ]
+  },
+  {
+    "timestamp": 1570424049,
+    "data": [
+      {
+        "post": "散歩で何カロリー消費する？日本語プログラミングで計算してみよう！-マイナビなでしこ連載が掲載されました！実生活でプログラミングが役立つ好例かと思います。 #日本語プログラミング言語\nhttps://news.mynavi.jp/article/nadeshiko-48/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1571198422,
+    "data": [
+      {
+        "post": "Pythonで音楽 - PyAudioとNumPyで楽器を作ろう - マイナビ連載が掲載されました。Pythonでドレミを奏でる方法を紹介します。\nhttps://news.mynavi.jp/article/zeropython-55/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1571830513,
+    "data": [
+      {
+        "post": "Android上でも「なでしこ3」のコマンドライン版が動きました。既にAndroidのブラウザ上ではWeb版のなでしこが動いていたのですが、コマンドライン版もUserLAnd+Debianで動きました。これでPCがなくても、なでしこ3を楽しめます。AndroidをLinuxマシンとして使える時代になったんですね。\n\nhttps://nadesi.com/doc3/go.php?14452"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572596226,
+    "data": [
+      {
+        "post": "macOS Catalinaで主役に躍り出た「zsh」は拡張性が高い - マイナビ連載が掲載されました！奥深いシェル「zsh」について紹介しました！\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-23/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1572920494,
+    "data": [
+      {
+        "post": "Go言語で特定ファイルを丸ごと収集するツールを作ってみよう - マイナビ連載が掲載されました。ちょっとしたツール作るのにGo言語は便利ですね。\nhttps://news.mynavi.jp/article/gogogo-6/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1573126846,
+    "data": [
+      {
+        "post": "大物は来訪をIFTTTで自動通知する(業務ハック8回目) - マイナビ連載が掲載されました！- IFTTTで位置情報を活用する手法を紹介しました。\nhttps://news.mynavi.jp/article/businesshack-8/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1573142867,
+    "data": [
+      {
+        "post": "令和対応や消費税10%対応、ようやく自分のWebサイトのツール全部対応させました。『Web便利ツール』の和暦西暦変換、和暦西暦早見表、消費税電卓などなど。いろいろなツールを公開しているけど、自分で作ったツールのこと、すっかり忘れてました。久々にアクセスログ見たら、そこそこ使われていた事に気づき急いで更新しました！\n\nhttps://kujirahand.com/web-tools/WarekiSeireki.php"
+      }
+    ]
+  },
+  {
+    "timestamp": 1573694337,
+    "data": [
+      {
+        "post": "AndroidでLinuxターミナルを動かすTermux環境でも、なでしこ3が動きました。Termuxは以前紹介したUserLAndよりも手軽にインストールできます。移動中も楽しくなでしこ3の開発できますね。\n\nhttps://nadesi.com/doc3/go.php?14453"
+      }
+    ]
+  },
+  {
+    "timestamp": 1574384949,
+    "data": [
+      {
+        "post": "iPhone/iPadでもPythonが使いたい - Pythonistaを始めよう - マイナビ連載が掲載されました！飛行機でも電車でもトイレでもPythonしたい禁断症状の人にオススメ。\n\nhttps://news.mynavi.jp/article/zeropython-56/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1575281641,
+    "data": [
+      {
+        "post": "時給計算ツールを作ろう - マイナビなでしこ連載 / 時間計算について、そして自作ツールを作ると作業が簡易化できることについて書いてみました！\nhttps://news.mynavi.jp/article/nadeshiko-49/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1576550715,
+    "data": [
+      {
+        "post": "Pythonで自分だけのTODOアプリを作ろう/マイナビ連載が掲載されました!! もし、プログラミングの実力アップを目指しているなら、実際に簡単なアプリを作って改造するのが一番の近道です。TODOアプリは、普段使いもできるし、オススメです。\nhttps://news.mynavi.jp/article/zeropython-57/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1576986051,
+    "data": [
+      {
+        "post": "マレーシア生活満喫中ですが、何年も前に作ったマレー語の勉強サイトのアクセスが今年に入ってから増えてきて、広告を少し増やしたら、月々1000円(今日のレートでRM37)ほど入るまでに成長しました！額は大きくないけど、こちらなら3-4食食べられます。\n\nhttps://boleh.info/bahasa-malaysia/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577289113,
+    "data": [
+      {
+        "post": "マレーシアのクアラルンプールの空港KLIA2で一泊する必要があっても、空港のすぐ隣にTuneHotelがあるので助かります。行くまでの道を動画に撮ってみたので、備忘録として残しておきます。\nhttps://youtu.be/Sq9Ppt31EiA"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577384681,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ3」で機械学習を楽しめるライブラリを作っています。今のところ、プラグイン扱いなんですが、一応、SVMとRandomForestが動くようになっています。\n\nhttps://github.com/kujirahand/nadesiko3-ml"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577710251,
+    "data": [
+      {
+        "post": "マレーシアのLazadaでRM58(1500円)ほどで買ったMIFA A1が届いたので箱を開けて再生してみた。ちなみに、日本だと2000円ほどでした。\nhttps://kujirahand.com/blog/go.php?789"
+      }
+    ]
+  },
+  {
+    "timestamp": 1577847713,
+    "data": [
+      {
+        "post": "先日、マレーシアで使っていた携帯電話のプランを変えたら、急にサービスが使えなくなった。すぐにサービスセンターに相談するも「料金の未払い」と適当な理由で却下された。海外生活にトラブルは付きもの。マレーシアでトラブルに遭った際の対応方法をまとめてみた。\n\nhttps://boleh.info/mm2h/go.php?24"
+      }
+    ]
+  },
+  {
+    "timestamp": 1578311987,
+    "data": [
+      {
+        "post": "読み放題のネット小説をネガポジ判定で評価してみよう/マイナビニュースPython連載が掲載されました！形態素解析してネガポジ判定して簡単に解析します。新年最初の連載です！\n\nhttps://news.mynavi.jp/article/zeropython-58/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1578399514,
+    "data": [
+      {
+        "post": "小粒で速く手軽に組み込める「Lua」言語 / マイナビ連載、世界のプログラミング言語24回目が掲載されました！今回は、自作のアプリに組み込めるスクリプト言語で軽い速いで根強い人気のLuaを紹介します。どのくらい速いのかベンチマークも取ってみました。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-24/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1578575501,
+    "data": [
+      {
+        "post": "なでしこ15周年が、窓の杜とYahoo！ニュースで紹介されたそうです！ありがとうございます。今後とも、なでしこをよろしくお願いします。\n\nhttps://headlines.yahoo.co.jp/hl?a=20200108-00000128-impress-sci"
+      }
+    ]
+  },
+  {
+    "timestamp": 1579262681,
+    "data": [
+      {
+        "post": "AndroidでもPythonが使いたい - Termuxを始めよう - マイナビ連載59回が掲載されました！Termux使うと、Androidスマホは、小さなLinux。Pythonスクリプト実行し放題です。\nhttps://news.mynavi.jp/article/zeropython-59/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1579485777,
+    "data": [
+      {
+        "post": "月々のカード明細CSVを一つにまとめるプログラムを作ろう - マイナビ連載なでしこが掲載されました。\n記念すべき50回目の今回は、PC版のなでしこ3を使って複数のCSVファイルを一つにまとめます。\nhttps://news.mynavi.jp/article/nadeshiko-50/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1580457006,
+    "data": [
+      {
+        "post": "FTPSでWebのファイルを定期的にバックアップしよう - マイナビPython連載60回目が公開されました！ --- 意外とFTPS使う機会って多いんですよね。Python使えば簡単に自動化できます。\nhttps://news.mynavi.jp/article/zeropython-60/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1581064742,
+    "data": [
+      {
+        "post": "スマホで手軽に楽しめる書道アプリ『書道ル』がDocomoのタブレットライフで紹介されました！これで、利用者が増えてくれるといいなぁ。\n\n♪(ページ下方)タブレットで筆文字の書き方を学ぼう\nhttps://data.nttdocomo.co.jp/tabmo/education/541/\n\n♪書道ルのWebサイト\nhttps://uta.pw/shodou/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1581910325,
+    "data": [
+      {
+        "post": "マイナビニュースで新連載『ゼロからはじめるJavaScript』が始まりました★ - JavaScriptを学ぶのに必要なものは？\nhttps://news.mynavi.jp/article/zerojavascript-1/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1583459982,
+    "data": [
+      {
+        "post": "買っちゃった！\n日本←→マレーシア、飛行機乗り放題のチケット。\n現在マレーシアのみの発売なので、買い方をまとめました。\nhttps://boleh.info/mm2h/index.php?AirAsia%20Unlimited%20Pass%252F2020%E5%B9%B4"
+      }
+    ]
+  },
+  {
+    "timestamp": 1584494614,
+    "data": [
+      {
+        "post": "Node.jsをインストールしてJavaScriptを楽しもうーマイナビ連載が掲載されました！\n\nhttps://news.mynavi.jp/article/zerojavascript-2/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1584665037,
+    "data": [
+      {
+        "post": "PowerShell - マイクロソフトのモダンでオープンなシェル言語 - 世界のプログラミング言語/マイナビ連載が掲載されました！！PSは個人的にほとんど使ってなかったのですが、今回この記事を執筆したことがきっかけで、少し好きになりました。.NETを直接触れるところとか便利ですよね。Excelもガンガン遠隔操作できます。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-25/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585021330,
+    "data": [
+      {
+        "post": "簡単にグラフ描画 - Chart.jsを使ってみよう / マイナビ連載が掲載されました！JavaScriptで簡単グラフを描こう！\n\nhttps://news.mynavi.jp/article/zerojavascript-3/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585127167,
+    "data": [
+      {
+        "post": "俳句投稿サイト「あやめ」(ベータ版)をこっそりオープン、一句詠んでみませんか？シンプルに俳句を投稿するだけなので、皆さん、ぜひ一句ご協力ください！\nhttps://haiku.uta.pw/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585732637,
+    "data": [
+      {
+        "post": "ブラウザで使えるバイナリビューワーを作ろうーマイナビGo言語連載 #golang バイナリ好きならエディタから作りたくなりますよねー\nhttps://news.mynavi.jp/article/gogogo-8/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1585960629,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」v3.0.72をリリースしました。今回のリリースでは、Web版の配布サイズを大幅に削減し、これまで以上に扱いやすくなりました。また、Chart.jsと連携してグラフ表示に対応しました。\nhttps://nadesi.com/doc3/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586147379,
+    "data": [
+      {
+        "post": "在宅勤務もやる気が出ない人は環境作りをーマイナビ連載が掲載されました！今回はコロナで在宅勤務を始める人向けに書いてみました。\nhttps://news.mynavi.jp/article/businesshack-9/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586325686,
+    "data": [
+      {
+        "post": "リアルタイムチャットを作ってみよう-なでしこマイナビ連載51回目が掲載されました！WebSocketを使ってスマホで動くチャットを自作してみましょう。\nhttps://news.mynavi.jp/article/nadeshiko-51/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586857215,
+    "data": [
+      {
+        "post": "事務処理自動化のために最小限のPython環境を構築しよう(Windows編)ーWindowsならストアからずいぶんインストールが楽になりました。\nhttps://t.co/q7UWjNhiZN"
+      }
+    ]
+  },
+  {
+    "timestamp": 1586908671,
+    "data": [
+      {
+        "post": "苦労して執筆した『プログラミング言語大全(技術評論社)』が先日発売になりました！100以上のプログラミング言語を網羅しています。用途や言語が生まれた背景など、プログラミング言語の世界を覗くのにぴったりの本です！ぜひ、見てください！\nhttps://amzn.to/2K5WQs2"
+      }
+    ]
+  },
+  {
+    "timestamp": 1587202208,
+    "data": [
+      {
+        "post": "PythonでExcelを自動操縦しよう - ExcelファイルをPDFに変換 - マイナビ連載が掲載されました。WindowsならVBAと同じ要領でPythonでExcelを自動操縦できて便利です！！\nhttps://news.mynavi.jp/article/zeropython-62/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1587790141,
+    "data": [
+      {
+        "post": "先日ベータ公開した『俳句投稿サイト「あやめ」』ですが、お題投稿機能やコメント機能など、大幅アップデートしました。使ってみてください！\nhttps://haiku.uta.pw/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1588926991,
+    "data": [
+      {
+        "post": "100行未満かつGo標準ライブラリだけで作る掲示板/マイナビ連載が掲載されました！Go言語でWebアプリの基本中の基本の掲示板を標準ライブラリだけで作ってみました。標準ライブラリを学ぶとその言語がよく見えますね。 #golang\nhttps://news.mynavi.jp/article/gogogo-9/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1591327689,
+    "data": [
+      {
+        "post": "自作ツールどうしてる？Python設定ファイル選手権 - マイナビ連載第63回目が掲載されました！ - 誰しも悩む設定ファイルどうしようか問題を掘り下げます。\nhttps://news.mynavi.jp/article/zeropython-63/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1591696590,
+    "data": [
+      {
+        "post": "バッチファイルでバックアップ効率化/マイナビ連載 業務課題をHackせよ! プログラミングで仕事自動化物語 第10回が掲載されました！\nhttps://news.mynavi.jp/article/businesshack-10/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1591860281,
+    "data": [
+      {
+        "post": "著書「Pythonではじめる Webサービス&スマホアプリの書きかた・作りかた 」が発売されました！これからWebサービス作りたいという人にオススメの一冊です。Pythonのサンプルコードだけでなく、サーバーどうする？からマネタイズまでアイデアを一杯紹介しています！\nhttps://amzn.to/3ffX4tY"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592199997,
+    "data": [
+      {
+        "post": "goyaccで自作プログラミング言語を作ってみよう（その1）-マイナビGo連載10回目が掲載されました！楽しい楽しい自作言語作りのはじめとしてYaccの使い方を紹介します★★★\nhttps://news.mynavi.jp/article/gogogo-10/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1592898232,
+    "data": [
+      {
+        "post": "デキるやつが使ってる『OCaml』は実用的な関数型言語ーマイナビ連載が掲載されました！\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-27/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1593693914,
+    "data": [
+      {
+        "post": "ブラウザで文字列整形 - 元データからメルマガ自動生成（その1）ーマイナビ連載が掲載されました！ブラウザで手軽に整形しよう！\n\nhttps://news.mynavi.jp/article/zerojavascript-4/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1594036000,
+    "data": [
+      {
+        "post": "ブラウザで文字列整形 - 元データからメルマガ自動生成（その2）-マイナビJavaScript連載が掲載されました。\nhttps://news.mynavi.jp/article/zerojavascript-5/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1594355247,
+    "data": [
+      {
+        "post": "過去10年東京で30度超えの日は増えている？/なでしこマイナビ連載53回目が掲載されました。気象情報を実際に自分で集計してみるといろいろなことが分かりますね。\nhttps://news.mynavi.jp/article/nadeshiko-53/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1594617500,
+    "data": [
+      {
+        "post": "Pythonで最も使われているWebフレームワーク『Flask』を10分で学ぼう - マイナビ Python連載64回目が掲載されました。Flaskはシンプルで使いやすいですね。\nhttps://news.mynavi.jp/article/zeropython-64/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1594809468,
+    "data": [
+      {
+        "post": "プログラミング言語が動くまで - goyaccで自作プログラミング言語を作ってみよう（その2）/マイナビ連載が掲載されました。私の趣味全開回です。楽しく自作言語の作り方を短く紹介します！\nhttps://news.mynavi.jp/article/gogogo-11/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1595059432,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」も、テキスト音楽「サクラ」も、KonaWikiも北極に1000年に保存されると思うと何か感慨深い。オープンソースなら漏れなくだけど。。。（みんな貼り付けてたので真似してはりつけてみる）\nhttps://bit.ly/2CP2azr"
+      }
+    ]
+  },
+  {
+    "timestamp": 1595233188,
+    "data": [
+      {
+        "post": "プログラマーが技術書を出版するときの注意を個人ブログにまとめてみました。印税は8%程度、入金は出版の数ヶ月後、時給に直すといくら？など、誰もが気になる点をまとめてみました。\nhttps://kujirahand.com/blog/go.php?799"
+      }
+    ]
+  },
+  {
+    "timestamp": 1595554187,
+    "data": [
+      {
+        "post": "マンガでざっくり学ぶPython/マイナビ出版 - 本日発売です！漫画を読むだけでプログラミングがマスターできます。私が監修しました。漫画家やシナリオ担当の方との打合わせや、何度もゲラをチェックしてダメ出し(笑)したりしました。楽しい作業でした。\n[Amazon]→ https://amzn.to/3fbvhLf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1595987014,
+    "data": [
+      {
+        "post": "私の本の韓国語翻訳版(機械学習/Node.jsの本だと思う)が手元に届きました。韓国語はさっぱり分かりませんがキムチは大好物です。そして右の『PythonではじめるWebサービスの本』、現在好評発売中です。おかげ様で増刷決まりました！\nhttps://amzn.to/3ffX4tY"
+      }
+    ]
+  },
+  {
+    "timestamp": 1596434987,
+    "data": [
+      {
+        "post": "Goでバイナリを操作しよう-PNG画像を読もう（マイナビニュース/Go言語の連載12回目）が掲載されました！今回は、Go言語でバイナリファイルを読み込む方法を紹介した回となっています。いやぁ、バイナリ操作って本当にいいもんですね～\nhttps://news.mynavi.jp/article/gogogo-12/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1596604970,
+    "data": [
+      {
+        "post": "PNG画像に暗号文を埋め込むプログラムを作ってみよう/マイナビGo言語連載13回 - 前回からの続きでPNG画像をバイナリ操作します。楽しいバイナリ操作の良い例です！\nhttps://news.mynavi.jp/article/gogogo-13/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1596888800,
+    "data": [
+      {
+        "post": "天気に応じてデザインが変わる時計を作ろう/マイナビ連載54回目 - なでしこで天気情報のWeb APIを利用した時計を作ります。\n実は、先日livedoorのWeatherHacksが突然サービス終了してしまったのです。諸々のサンプルプログラムで使っていたので残念に思っていました。サンプルに使えれば良いので、それに似たAPIを急遽公開しました。今回のなでしこは、せっかく作ったAPIの利用例ともなっています。\nhttps://news.mynavi.jp/article/nadeshiko-54/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1597402293,
+    "data": [
+      {
+        "post": "COBOLがコロナで大注目?! 60年以上前の言語が最近話題 / マイナビ連載-世界のプログラミング言語28回が掲載されました！今回は、COBOLです。癖が強いけどちょっと慣れたら使えそうな気がしました。\n\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-28/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1597755635,
+    "data": [
+      {
+        "post": "ユーザー数17人。完全に趣味の俳句投稿サイトを縦書き表示に対応させました。CSS数行書き加えただけなので、もっと早く対応すれば良かったな、と思ったのでした。\n https://note.com/kujirahand/n/ndb22ec4ad9e7"
+      }
+    ]
+  },
+  {
+    "timestamp": 1598944180,
+    "data": [
+      {
+        "post": "PythonでExcelを操作する二大手法を比較しよう - マイナビPython連載65回目が掲載されました！openpyxlかpywin32かどちらを使う？という回です。\nhttps://news.mynavi.jp/article/zeropython-65/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1599204240,
+    "data": [
+      {
+        "post": "v10が公開 - ElectronでJS製デスクトップアプリを作ろう/マイナビJavaScript連載が掲載されました！Electronは手軽にアプリが作れて便利！ #javascript #electron #js\n\nhttps://news.mynavi.jp/article/zerojavascript-6/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1600264185,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」が、来年度の技術・家庭の教科書に載ります！ 学生の皆さんが楽しくプログラミングを学ぶお手伝いができること、とても嬉しく思います。今後も頑張って開発していきます！\n\n詳細→ https://nadesi.com/top/go.php?44"
+      }
+    ]
+  },
+  {
+    "timestamp": 1600341164,
+    "data": [
+      {
+        "post": "Go言語ならExcelの読み書きが楽勝で配布も簡単になる件/マイナビGo言語連載14回目が掲載されました！ #golang #go\nhttps://news.mynavi.jp/article/gogogo-14/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1600343078,
+    "data": [
+      {
+        "post": "窓の杜で「なでしこ」の教科書掲載を取り上げてもらえました！ありがとうございます！これまで、お世話になった皆さんに、改めて感謝したいです！\nhttps://forest.watch.impress.co.jp/docs/serial/yajiuma/1277779.html"
+      }
+    ]
+  },
+  {
+    "timestamp": 1600907243,
+    "data": [
+      {
+        "post": "教科書に採用された日本語プログラミング言語「なでしこ」のインストールと使い方 - マイナビなでしこ連載55回目掲載されました。連載という形で持続的になでしこ応援してくれたマイナビ様に感謝しつつ、読者の皆さんにも感謝という回です！\nhttps://news.mynavi.jp/article/nadeshiko-55/\n#日本語プログラミング言語 #なでしこ"
+      }
+    ]
+  },
+  {
+    "timestamp": 1601515885,
+    "data": [
+      {
+        "post": "livedoor NEWSでなでしこを紹介していただきました！一歩踏み込んでプログラムも掲載してくださっています。\n---\n『中学の教科書に採用される無料の日本語プログラミング言語「なでしこ」を試す』\nhttps://news.livedoor.com/article/detail/18948047/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1601871832,
+    "data": [
+      {
+        "post": "PythonとHTMLで手軽にPDF納品書を作ってみようーマイナビPython連載66回目が掲載されました！ #python\nhttps://news.mynavi.jp/article/zeropython-66/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602060099,
+    "data": [
+      {
+        "post": "拙作『プログラミング言語大全』ですが、コロナ自粛中に発売され残念に思っていましたが、皆さんの応援のおかげで無事増刷となりました！ありがとうございます！100以上のプログラミング言語を紹介した本です。\nhttps://amzn.to/2K5WQs2"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602229162,
+    "data": [
+      {
+        "post": "難解パスワード生成ツールを作ろう/なでしこマイナビ連載第56回が掲載されました。セキュリティリスクを減らすために、今回は、なでしこで難解なパスワードを生成するツールを作る方法紹介します。 #なでしこ #日本語プログラミング言語 #パスワード\n\nhttps://news.mynavi.jp/article/nadeshiko-56/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602570322,
+    "data": [
+      {
+        "post": "真偽型TrueはFalseより大きい？主要言語の歴史と共に比較してみよう - マイナビ 世界のプログラミング言語の連載29回目が掲載されました! Bool型を通して言語の歴史探索します。\n#プログラミング #歴史 #boolen #True #False\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-29/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1602864149,
+    "data": [
+      {
+        "post": "Chromebookにコマンドライン主体の開発環境を構築する場合、AndroidアプリのTermuxを入れて、Chrome拡張のSecure ShellからTermuxにアクセスするようにすると日本語入力も問題なくかなり快適。 #chromebook #termux\nhttps://qiita.com/kujirahand/items/8e34e05e7296134b55cd"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603369720,
+    "data": [
+      {
+        "post": "格安ChromebookでPythonプログラミング-マイナビPython連載67回目が公開されました！Python環境を整えるまでを書きました。ボタンを数回押すだけでDebianのセットアップが完成し、Pythonが使えるようになるので便利。 #python #chromebook #Linux\nhttps://news.mynavi.jp/article/zeropython-67/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603437551,
+    "data": [
+      {
+        "post": "著書『Pythonではじめる Webサービス&スマホアプリの書きかた・作りかた』の増刷が決定、皆様の応援ありがとうございます！これからWebサービスはじめたいという人に向けたアイデアたっぷりの開発指南書です。これからやってみようという気持ちの方に読んでもらえれば嬉しいです。 #Python #Webサービス #開発者 #Flask\nhttps://amzn.to/3ffX4tY"
+      }
+    ]
+  },
+  {
+    "timestamp": 1603858830,
+    "data": [
+      {
+        "post": "ハーバー・ビジネス・オンラインにて、日本語プログラミング言語なでしこの教科書掲載について記事が載りました！　柳井さんありがとうございます＼(^o^)／\n https://t.co/nKH6wCnSij"
+      }
+    ]
+  },
+  {
+    "timestamp": 1604640561,
+    "data": [
+      {
+        "post": "郵便番号CSVファイルをデータベースに保存して活用しよう / Pythonマイナビ連載68回目が掲載されました - CSVファイルをSQLiteに保存。郵便番号データを活用する方法を紹介します。 #python\nhttps://news.mynavi.jp/article/zeropython-68/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1604999107,
+    "data": [
+      {
+        "post": "でたらめな住所を探せ！数百件のExcel名簿から郵便番号と住所の不一致を探す - 業務課題をHackせよ! プログラミングで仕事自動化物語11回目が掲載されました。VBAで解決します。 #VBA #Excel #業務ハック\nhttps://news.mynavi.jp/article/businesshack-11/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605056684,
+    "data": [
+      {
+        "post": "なでしこ3のVisual Studio CodeプラグインがGitHubで公開されました。カラーリングだけでなく文法チェックまでしてくれるすごい。開発者の @kna さんに感謝！ #なでしこ3\n\nhttps://github.com/kna/nadesiko3-vscode-extension"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605259581,
+    "data": [
+      {
+        "post": "Pythonを使って自動で申請書PDFに書き込もう(その1)-マイナビPython連載69回目が公開されました！ゼロからPDFに書き込みを行う方法を紹介しています。任意サイズの方眼紙を作りたい人にもオススメかも?!  #python #pdf\nhttps://news.mynavi.jp/article/zeropython-69/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605325019,
+    "data": [
+      {
+        "post": "GitHubでメンテしているパブリックドメインの英和辞書「ejdict-hand」に2000箇所前後の誤字脱字修正依頼が来ました。一通り確認するだけでもスゴイボリューム。乙井様、貢献ありがとうございます！この修正でずいぶん辞書品質が向上しました。\nhttps://github.com/kujirahand/EJDict"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605504593,
+    "data": [
+      {
+        "post": "以前作成したAndroidアプリのメンテナンス。2010年頃に作成して公開したHTML5でAndroidアプリ開発するフレームワークjsWaffleを久々に引っ張り出してきてビルド。一部のライブラリが非推奨になっていたのと広告機能のAdMobでエラーに。それだけ消したら今でも問題なく動いた。\nhttps://github.com/kujirahand/jswaffle"
+      }
+    ]
+  },
+  {
+    "timestamp": 1605529706,
+    "data": [
+      {
+        "post": "Pythonを使って自動で申請書PDFに書き込もう(その2) / マイナビ連載70回目掲載されました！PDFに任意のテキストを書き込む方法を紹介します。\nhttps://news.mynavi.jp/article/zeropython-70/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1606442936,
+    "data": [
+      {
+        "post": "ChromebookのWebブラウザでもなでしこ３はバッチリ動きます。アプリのTermuxを入れればネットにつながっていなくてもローカルでなでしこ３のサーバーを動かすこともできます。Chromebookでもなでしこの開発できます(^o^)/\nhttps://nadesi.com/doc3/go.php?14453"
+      }
+    ]
+  },
+  {
+    "timestamp": 1606807467,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」v3.1.5(ブラウザ版)をバージョンアップしました。最新版では配布サイズの軽減、インデント構文の試験的導入、ブラウザプラグインのテスト、不具合の修正などここ二ヶ月に行われた盛りだくさんの作業が反映されました。\n#日本語プログラミング言語 #なでしこさん\nhttps://nadesi.com/\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.1.5"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607481996,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」(v3)をHTMLに埋め込んで使う方法について簡単に紹介します。とっても手軽ですよ！\n#なでしこさん #日本語プログラミング言語\nhttps://qiita.com/kujirahand/items/a9ac3145a8d535a372dc"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607579748,
+    "data": [
+      {
+        "post": "師走は家族で幾何学模様を楽しもう/マイナビなでしこ連載57回目が掲載されました！タートルグラフィックスで楽しもう特集です。 #なでしこさん #日本語プログラミング言語\nhttps://news.mynavi.jp/article/nadeshiko-57/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607607201,
+    "data": [
+      {
+        "post": "なでしこ3の簡易エディタから保存ボタンを押すと、ブログなどに気軽に貼り付けできる「ブログパーツ機能」を追加しました。#なでしこさん #日本語プログラミング言語\nhttps://nadesi.com/doc3/go.php?10"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607693059,
+    "data": [
+      {
+        "post": "ちょっと前の記事だけど、やっぱり手書きのメモの方が記憶力もアイデア力も出るという話。やはり手書きメモが重要。アイデアはペンで書く方が良い発想が出る。\n\nhttps://gigazine.net/news/20160407-can-handwriting-make-you-smarter/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1607695204,
+    "data": [
+      {
+        "post": "『シゴトがはかどるPython自動処理の教科書』(マイナビ出版)が発売されます!! これまで私が培った仕事自動化の手法をまとめました。PythonでExcel・ブラウザ操作・メール・Twitter・マウス自動操縦など、様々な仕事を自動化します。Amazonで予約はじまりました。よろしくお願いします。\nhttps://amzn.to/3gnjueH"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608016326,
+    "data": [
+      {
+        "post": "C言語よりも速い柔軟な動的言語「Julia」- マイナビ連載「世界のプログラミング言語」が掲載されました。Juliaは動的言語の特徴を持っていながら超高速に動くのがスゴイですね。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-30/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608270557,
+    "data": [
+      {
+        "post": "Excelマクロで公平な当番表を作ろう /  業務課題をHackせよ! プログラミングで仕事自動化物語12回目が掲載されました！当番表やシフトの作成を自動化する方法を物語と一緒に紹介します。\nhttps://news.mynavi.jp/article/businesshack-12/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608361011,
+    "data": [
+      {
+        "post": "『15年以上コツコツなでしこ開発していたら教科書に載せて貰った件。これが日本語プログラミング言語の生きる道。』というタイトルでODCのB会場にて講演させていただきます。この後、16:15からです！YouTubeでライブ配信されるようです。\nhttps://www.youtube.com/watch?v=M2L2t_8D38w&feature=youtu.be"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608616673,
+    "data": [
+      {
+        "post": "好評の書籍『すぐに使える!業務で実践できる! PythonによるAI・機械学習・深層学習アプリのつくり方(ソシム)』ですが、韓国語版の読者から自動翻訳を介して質問と感想が来ました⭐これまで台湾と韓国で翻訳本が出ているのですが、読者から直接感想を貰ったのは初めてでちょっと嬉しかったです。\nhttps://amzn.to/2HKmTYd"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608641371,
+    "data": [
+      {
+        "post": "Excelで読めないSQLiteデータをPythonで読んでExcelに差し込みたい/マイナビPython連載71回目が掲載されました！意外とあるかも?! SQLiteのデータを読んでExcelに貼り付けるプログラム。\nhttps://news.mynavi.jp/article/zeropython-71/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1608819490,
+    "data": [
+      {
+        "post": "なでしこv3(ブラウザ/Node.js版)がバージョンアップしました。最新バージョンv3.1.11では、WebWorker APIの実装、条件分岐構文の実装、「ここまで」を💧と書けるように実装、文字列記号に🌴や🌿を追加、JS構文や多重波括弧文字列の廃止、インデント構文の修正などなど、盛りだくさんです。#なでしこさん #日本語プログラミング言語\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.1.11"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609121635,
+    "data": [
+      {
+        "post": "「WindowsでWikiの執筆環境を構築する手順」を以下のnote.comにメモしてみたけど書きにくかった。やはり文章を書くだけなら便利だけど、プログラムやシェルのコマンドを連続で記述するのが難しい。Wiki記法で書ける自作のKonaWikiか、Markdownで書くQiitaのほうが簡単なので素直に次から自分のブログに書いておこう。\nhttps://note.com/kujirahand/n/n613ba75ccd4c"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609600420,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ3」ですが、ドローン(Tello)の基本的な操作が可能になりました！ #なでしこさん #日本語プログラミング言語\nhttps://nadesi.com/doc3/go.php?16404"
+      }
+    ]
+  },
+  {
+    "timestamp": 1609941252,
+    "data": [
+      {
+        "post": "格安ChromebookとPythonで掲示板を作って活用しよう / マイナビPython連載72回が掲載されました! WebフレームワークFlaskを使うとコメント付き60行で最小機能の掲示板が作れます！\nhttps://news.mynavi.jp/article/zeropython-72/ \n#python #chromebook"
+      }
+    ]
+  },
+  {
+    "timestamp": 1610088078,
+    "data": [
+      {
+        "post": "PostScriptは印刷業界を支えたスタック指向型言語 / マイナビ連載が掲載されました！PostScriptの言語も魅力で面白いけど、実行結果がPDFで綺麗に表示されるのも楽しいです。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-31/\n#postscript #プラグラミング言語"
+      }
+    ]
+  },
+  {
+    "timestamp": 1610187106,
+    "data": [
+      {
+        "post": "なでしこがv3.1.12にバージョンアップしました🆙 N回構文の改善や『全タイマー停止』命令の追加、『DOMスタイル取得』などの改善、文字列記号🌴や🌿の問題を修正、ラインコメントの問題を修正などを行いました。 #なでしこさん #日本語プログラミング言語\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.1.12"
+      }
+    ]
+  },
+  {
+    "timestamp": 1610521554,
+    "data": [
+      {
+        "post": "なでしこがv3.1.16にバージョンアップしました。タートルグラフィックス機能に命令を追加しグラフ描画 Chart.jsの描画が簡単になるように修正し不具合なども修正しました。 #なでしこさん #日本語プログラミング言語\nhttps://nadesi.com/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1610696038,
+    "data": [
+      {
+        "post": "Web公開できるグラフを4行で作ってみよう/マイナビなでしこ連載58回目 - CSVファイル与えると手軽に項目ミュートもできるチャートを描画します。\nhttps://news.mynavi.jp/article/nadeshiko-58/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1612588979,
+    "data": [
+      {
+        "post": "LISP系言語で実用的なWebアプリも作れるClojureScript/マイナビ連載が掲載されました！npmでlumoをインストールしてWebアプリを作る方法を紹介します。 #clojure\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-32/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1612875231,
+    "data": [
+      {
+        "post": "ChromebookのLinuxを有効にして、なでしこをインストールする手順を書きました。#なでしこさん #日本語プログラミング言語\nhttps://qiita.com/kujirahand/items/2a940c14fd2b5ac0db29"
+      }
+    ]
+  },
+  {
+    "timestamp": 1612876462,
+    "data": [
+      {
+        "post": "100個あるCSVファイルを結合してExcelに取り込むには？/業務課題をHackせよ!マイナビ連載が掲載されました。確定申告や経理ではよくあるあの処理をVBAで片付けましょう！\nhttps://news.mynavi.jp/article/businesshack-13/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1612932487,
+    "data": [
+      {
+        "post": "おしゃべりアラームでうっかり遅刻を防止しよう/マイナビなでしこ連載59回目が掲載されました！なでしこを使うとSpeech Synthesis APIが簡単に利用できます。#なでしこさん #日本語プログラミング言語\nhttps://news.mynavi.jp/article/nadeshiko-59/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1613184463,
+    "data": [
+      {
+        "post": "なでしこv3がバージョンアップしました。文字列内展開で計算式を指定できるようにしたり、エラー表示を改善したり、簡易定数宣言の『定める』文、否定形『なければ』文、シンタックスハイライトの追加など、盛りだくさんの更新です。#なでしこさん #日本語プログラミング言語\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.1.17"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614311694,
+    "data": [
+      {
+        "post": "macOS Big SurでpyenvやHomebrewでインストールしたPythonがうまく動かない件、公式のインストーラーを使うことで、すべて解決しました。\nhttps://note.com/kujirahand/n/n1695d8b0a7ed"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614343308,
+    "data": [
+      {
+        "post": "私が解説/監修をした『マンガでざっくり学ぶPython』(去年7月発売)ですが教科書として採択してくださる高校があったそうで嬉しい限りです😍 これまで書いた本とは毛色が異なり漫画のラフから細かくチェックしたのが楽しい思い出です。\nhttps://amzn.to/3fbvhLf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614926585,
+    "data": [
+      {
+        "post": "VBAで1000行のExcelシートから無効な値を洗い出そう / 業務Hack14回目 - マイナビの連載が掲載されました。 #VBA #業務効率化\nhttps://news.mynavi.jp/article/businesshack-14/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1614926763,
+    "data": [
+      {
+        "post": "より簡単にデスクトップアプリが作れるPySimpleGUIを使ってみよう / マイナビPython連載73回目が掲載されました！PySimpleGUIは簡単にGUIアプリが作れますね。 #python #業務効率化 #gui \nhttps://news.mynavi.jp/article/zeropython-73/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1615005159,
+    "data": [
+      {
+        "post": "はっきり言って、最新版のなでしこv3.1.19を甘く見ていた。yy0931さんの大型コミットスゴイと思っていたのだけど、各種Wikiのエディタをアップデートしたら、なでしこ3のWebエディタに設定機能がついた上に、命令のカラーリングに加え、補完機能や、関数ヒントなどが、簡易エディタで自動的に有効になっていた！時間を見つけてやろうと思っていたこと、全部実現してくれてた。しかし、yy0931さんって何者なのでしょうか！人のこと言えないけど、平日の昼間にも大量のプルリクが！ついに職業なでしこ開発者誕生か？！\nhttps://nadesi.com/v3/new #なでしこさん"
+      }
+    ]
+  },
+  {
+    "timestamp": 1615777225,
+    "data": [
+      {
+        "post": "なでしこv3.1.20をリリースしました。テストを大幅強化し各種不具合を修正しました。また、3Dタートルのデモページを追加、『描画中コンテキスト』『JSメソッド実行』『画面更新時実行』『画面更新処理取消』『キャンバス状態保存』『キャンバス状態復元』の命令を追加しました。\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.1.20\n#なでしこさん #日本語プログラミング言語"
+      }
+    ]
+  },
+  {
+    "timestamp": 1615863200,
+    "data": [
+      {
+        "post": "ChromebookでWebアプリ(Node.js/PHP)の開発環境を整えよう/マイナビJavaScript連載が掲載されました！好調のChromebookで開発環境を整えます。 #chromebook #nodejs #php #linux\nhttps://news.mynavi.jp/article/zerojavascript-7/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1616328962,
+    "data": [
+      {
+        "post": "Unicodeで定義されているEmojiの一覧表を作成しよう/マイナビ60回目のなでしこ連載が掲載されました！日本が世界に誇るEmoji文化について、そして一覧表をなでしこで生成します。 #なでしこさん #日本語プログラミング言語\nhttps://news.mynavi.jp/article/nadeshiko-60/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1616650258,
+    "data": [
+      {
+        "post": "『日本語プログラミング言語「なでしこ」に関する解説』が情報処理学会・学会誌「情報処理」に掲載されました！『note』でも読めるので良かったら見てみてください！\nhttps://note.com/ipsj/n/na3c57ceeffcf"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617087216,
+    "data": [
+      {
+        "post": "Go言語でPDFの領収書に書き込みをしてみよう(前編) / マイナビGo言語連載15回目が掲載されました！gopdfでPDFを作成する方法を解説します。#golang #Go言語\nhttps://news.mynavi.jp/article/gogogo-15/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617168934,
+    "data": [
+      {
+        "post": "なでしこv3.1.24をリリースしました。これまでもIE対応していましたが、サイト内のエディタでエラーが出てました。今回全体に見直し修正しました。また最新版では混乱を招く文法を廃止し動作テストを強化しました。https://nadesi.com/v3\n---\nP.S> 今回、IE対応のため久々にmacをBootcamp使ってWinを起動したら、ブルースクリーンで再起動ループがおきてびっくりした。。。mac起動の画面も出ず、F8連打も効かず。。。思い出して電源長押しで強制終了させたら普通に起動したけどヤバかった。良い思い出になった。\n\n#なでしこさん #日本語プログラミング言語"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617273064,
+    "data": [
+      {
+        "post": "Go言語でPDFの領収書に書き込みをしてみよう(後編) - マイナビGo言語連載(16回目)が掲載されました！自動処理でPDF生成できると便利です。 #golang #Go言語 #pdf #プログラミング #領収書\nhttps://news.mynavi.jp/article/gogogo-16/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617363065,
+    "data": [
+      {
+        "post": "【コロナ前後で変化したテレワーク環境】ノマドから自宅に。noteに今の作業環境まとめてみた。文章にしてみて漠然と思っていたことが明確になったので、引き続き頑張ろうと思った。\nhttps://note.com/kujirahand/n/n77615a1b9e4a"
+      }
+    ]
+  },
+  {
+    "timestamp": 1617966077,
+    "data": [
+      {
+        "post": "なでしこがv3.2.1にバージョンアップ🆙非同期構文『逐次実行』を改善🌟『N回』を『N回繰り返す』と言い換えられるように。「A以上」「A以下」と変数と続けて書けるように。その他もろもろ、かなり大きな更新です。#なでしこさん #バージョンアップ\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.1"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618293920,
+    "data": [
+      {
+        "post": "PythonでZIP解凍すればファイル100個あっても余裕な件 - マイナビ連載(74回目)が掲載されました。Pythonを解凍ツールとして使う方法について書いてみました。 #pyton #解凍 #プログラミング\n https://news.mynavi.jp/article/zeropython-74/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618360108,
+    "data": [
+      {
+        "post": "管理しているWebサイトや執筆にフル活用しているKonawiki2のレガシーコードを大整理中。継ぎ足し継ぎ足しで作ったコードがだらけ。自分的使用頻度が高いので最優先でメンテナンス。今後も、継ぎ足していって伝統あるウナギ屋のように良い良い香りのアプリにしていきたい。 #Wiki #PHP\nhttps://kujirahand.com/konawiki/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1618982199,
+    "data": [
+      {
+        "post": "迷路を自動生成するアルゴリズムを考えてみよう/なでしこマイナビ連載61回目が掲載されました⭐迷路職人になりたかった人に贈ります💦\nhttps://news.mynavi.jp/article/nadeshiko-61/\n#迷路 #自動生成 #迷宮 #なでしこさん #プログラミング初学者"
+      }
+    ]
+  },
+  {
+    "timestamp": 1619150841,
+    "data": [
+      {
+        "post": "Twitterで話題になった気象庁の天気予報APIをPythonで使ってみよう / マイナビPython連載75回目が掲載されました。気象庁謹製の天気予報APIを使ってみようというものです。#python #天気予報 #API #WebAPI\nhttps://news.mynavi.jp/article/zeropython-75/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1619356939,
+    "data": [
+      {
+        "post": "なでしこがv3.2.5にバージョンアップしました。「描画回転」「描画拡大」などキャンバス関連の命令などを追加し、文法「ハッシュ」や「オブジェクト」を「辞書型変数」に統一しました。その他細かい問題も修正しています。#なでしこさん #辞書型 #canvas\nhttps://nadesi.com"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620129495,
+    "data": [
+      {
+        "post": "ColabのGPU高性能マシンが月1072円で使い放題になっていた件/マイナビPython連載(76回目)が掲載されました！とにかくColabの凄さを改めて感じている今日この頃です。#python #colab\nhttps://news.mynavi.jp/article/zeropython-76/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620302042,
+    "data": [
+      {
+        "post": "Colabにサーバーを立ててチャットアプリを動かそう/マイナビなでしこ連載62回目が掲載されました！ #なでしこさん #colab #チャット #プログラミング\nhttps://news.mynavi.jp/article/nadeshiko-62/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620746255,
+    "data": [
+      {
+        "post": "Excel VBA愛が炸裂した著書『プログラマーの本気がExcelを覚醒させる 超絶ExcelVBA』の予約が始まりました!! Excelで機械学習や形態素解析、正規表現など実践する方法を解説しています。 #Excel #VBA #AI #機械学習\nhttps://amzn.to/3dR8bMm"
+      }
+    ]
+  },
+  {
+    "timestamp": 1620889283,
+    "data": [
+      {
+        "post": "一度は挫折したDart言語が最近モバイル開発で右肩上がりに/マイナビ連載-世界のプログラミング言語33回目が掲載されました。\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-33/ #Dart #Flutter #プログラミング言語 #iOS #Android"
+      }
+    ]
+  },
+  {
+    "timestamp": 1621060767,
+    "data": [
+      {
+        "post": "著書『プログラマーの本気がExcelを覚醒させる 超絶ExcelVBA』の見本が届きました。みんな表紙の絵とそっくりだって！そんなに似てるかな？もうすぐ発売、書店で見てみてください！ #excel #vba #ai #正規表現 #形態素解析\nhttps://amzn.to/3dR8bMm"
+      }
+    ]
+  },
+  {
+    "timestamp": 1621317850,
+    "data": [
+      {
+        "post": "Pythonのpipコマンドでうまくパッケージがインストールできない場合がある理由と対処法 / マイナビPython連載77回目が掲載されました★ #python #pip #インストール\nhttps://news.mynavi.jp/article/zeropython-77/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1621866762,
+    "data": [
+      {
+        "post": "なでしこ3をバージョンアップ。v3.2.13では二次元配列変数アクセスの細かいバグを修正し、パフォーマンス測定の機能を追加、『時間ミリ秒取得』『AJAX受信時』厳格な比較演算子 === と !== を追加しました。#なでしこさん\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.13"
+      }
+    ]
+  },
+  {
+    "timestamp": 1622018313,
+    "data": [
+      {
+        "post": "「なでしこ」の開発支援してくれた人を表彰する「なでしこ支援賞」が始まりました！窓の杜やYahoo!ニュースにも取り上げていただきました。ありがとうございます。そして、なでしこ開発がもっと活発になることを願っています！皆さん、引き続きのご支援よろしくお願いします！！ #なでしこさん\nhttps://forest.watch.impress.co.jp/docs/news/1326771.html"
+      }
+    ]
+  },
+  {
+    "timestamp": 1622791747,
+    "data": [
+      {
+        "post": "Node.jsに関する10の反省点から生まれたJS実行エンジンDeno / マイナビ連載(世界のプログラミング言語34回目)が掲載されました！今後、DenoがNode.jsを置き換えて行くのでしょうね。 #deno #JavaScript #NodeJS\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-34/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1623373886,
+    "data": [
+      {
+        "post": "Pythonの正規表現を使って200個のファイルをフォルダ分けしよう/マイナビ連載78回が掲載されました。ただファイルを振り分けるだけの作業なんだけど、プログラミングでやると手作業よりずっと楽しくできますよね。\n#python #業務効率化 #正規表現\nhttps://news.mynavi.jp/article/zeropython-78/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1623462268,
+    "data": [
+      {
+        "post": "なでしこv3.2.15バージョンアップ。今回、空白文字の後ろにあった改行が削除されてしまうという重大なバグを修正しました。これまで未発覚だったのが信じられないです。そのほか、ブラウザ版に『クリップボード設定』『クリップボード取得時』を追加。「表行列交換」で空列が含まれていた時の処理を修正しました。\n\nちなみにそのバグ「/s+/」を「/\\x20+/」と置き換えることで直したのですが、ほんの2文字が原因でもの凄い失敗が引き起こされていたという好例。うっかり空白文字を指定したつもりで正規表現の「\\s」を記述したのがそもそもの大失敗でした。\n\n #なでしこさん\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.15"
+      }
+    ]
+  },
+  {
+    "timestamp": 1624584889,
+    "data": [
+      {
+        "post": "ブラウザのFetch APIで天気情報を取得してみよう / マイナビJavaScript連載が掲載されました。非同期のFetch APIでWeb APIにアクセスする方法を紹介しています。#JavaScript #Ajax #WebAPI\nhttps://news.mynavi.jp/article/zerojavascript-8/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1624850992,
+    "data": [
+      {
+        "post": "550円で電子工作ラズパイピコを始めよう / マイナビPython連載79回目が掲載されました。PCとつないで手軽に電子工作するのに最適です!! #pico #raspberrypi #電子工作 #プログラミング\nhttps://news.mynavi.jp/article/zeropython-79/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625151021,
+    "data": [
+      {
+        "post": "『なでしこ3PHP』がまともに動くようになった！なでしこ3の標準命令のサポートがほぼ完了し、DBもOK。試しに簡単な掲示板を作ってみた。これで、サーバーもブラウザも「なでしこ」で実現できる体制が整った！ #altPHP #なでしこさん #php\nhttps://nadesi.com/doc3/index.php?nadesiko3php"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625367426,
+    "data": [
+      {
+        "post": "なでしこv3.2.23バージョンアップしました。「!非同期モード」を大幅に高速化し「絶対パス変換」命令を追加しました。その他、いくつかの不具合を修正しています。#なでしこさん #非同期処理 #日本語プログラミング言語\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.23"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625483793,
+    "data": [
+      {
+        "post": "「ちょっと待ってそのAPIまだ未対応かも」を調べる方法 / マイナビJavaScript連載9回目が掲載されました！あれ？このAPIってもう全部のブラウザで使えるの？を調べる方法を紹介しています。#JS #API #プログラミング #ブラウザ #HTML5\nhttps://news.mynavi.jp/article/zerojavascript-9/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1625931887,
+    "data": [
+      {
+        "post": "なでしこv1.583(Windows版)をバージョンアップ。「N回」構文の不具合を修正など。v1.580を使っている方はバージョンアップをオススメします。\nhttps://nadesi.com/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1626314079,
+    "data": [
+      {
+        "post": "ついに🌟「なでしこ3」の書籍「日本語だからスイスイ作れる プログラミング入門教室」が8月24日に発売されます！Amazonで予約販売が始まりました！初代なでしこ本から16年ぶりで熱の入り方半端ないです。毎年3冊ほど本を書いてますが自分で作ったアプリの本を書くというのはなかなか機会がないもの。どうぞ、皆様の応援をよろしくお願いします！！\n#なでしこさん #日本語プログラミング言語 #プログラミング入門\nhttps://amzn.to/3B7j3z2"
+      }
+    ]
+  },
+  {
+    "timestamp": 1627115165,
+    "data": [
+      {
+        "post": "「社長、パスワードマネージャー導入するってよ」マイナビ連載(15回目)が掲載されました！ #VBA #プログラミング #セキュリティ #パスワード\nhttps://news.mynavi.jp/article/businesshack-15/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1628083899,
+    "data": [
+      {
+        "post": "ドット絵エディタを作ろう/第64回なでしこ連載が掲載されました！レトロなドット絵エディタを自作しよう！\nhttps://news.mynavi.jp/article/nadeshiko-64/\n#なでしこさん #プログラミング #レトロ #ドット絵"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629095679,
+    "data": [
+      {
+        "post": "「最初はみんなプロトタイプだった」のキャッチコピーが秀逸だった『Pythonではじめる Webサービス&スマホアプリの書きかた・作りかた』が増刷になります！皆さんの応援ありがとうございました！本書を読んで新サービスをみんなでガンガン作りましょう！\nhttps://amzn.to/3ffX4tY\n#python #flask #ウェブサービス #感謝"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629188348,
+    "data": [
+      {
+        "post": "3×3グリッドのアイデア発想ツールをブラウザで作ろう/マイナビJS連載が掲載されました！アイデアで問題を解決しよう。 #js #アイデア発想 #idea\nhttps://news.mynavi.jp/article/zerojavascript-10/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629248669,
+    "data": [
+      {
+        "post": "GUIで使える簡単ファイル暗号化ツールを作ろう/マイナビPython連載(81)が掲載されました！30行ちょっとのプログラムでGUIファイル暗号化ツールを作ろう。\nhttps://news.mynavi.jp/article/zeropython-81/\n#zip #python #gui #ZipCrypt #aes #pycryptodome #PySimpleGUI"
+      }
+    ]
+  },
+  {
+    "timestamp": 1629888227,
+    "data": [
+      {
+        "post": "中部アイティ協同組合様の主催で、オンライン講演させていただきます。楽しくプログラミングスキルを上げる7つの秘訣を紹介します。\n【タイトル】趣味が仕事になる！プログラミングがもっと楽しくなるレシピ\n【日時】9月9日(木曜)15時より。申し込み制（無料）です。\n皆様の参加お待ちしております。\nhttps://uzura.doorkeeper.jp/events/125631?fbclid=IwAR2glulexswEGnl7M_ag-BII5ZpjTNPR_VwtW4lLG8Q3TjDE6ZMkn9jKhII"
+      }
+    ]
+  },
+  {
+    "timestamp": 1630758341,
+    "data": [
+      {
+        "post": "Markdownで書いたテキストファイルを手軽にiPadで見れるようにPDFに変換したいなぁ。どうやってやるのが良いかな？と思って検索したら、自分が2018年に書いた記事が出てきた。3年前の自分に偉いと言ってあげたい。\nhttps://news.mynavi.jp/article/zeropython-21/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1630912225,
+    "data": [
+      {
+        "post": "形態素解析で表記揺れを吸収してファイル検索しよう/マイナビPython連載82回目、掲載されました！自作のファイル検索ツールの作り方を紹介。#python #検索 \nhttps://news.mynavi.jp/article/zeropython-82/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1631600604,
+    "data": [
+      {
+        "post": "純粋関数型言語Haskellは難しいが学ぶ価値がある言語/マイナビ連載36回目が掲載されました！今回、難しいと噂のHaskellについて書いてみました(^o^)y #haskkell #プログラミング言語 #関数型プログラミング言語 #プログラマー #スキルアップ\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-36/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1632095565,
+    "data": [
+      {
+        "post": "Pythonシェル徹底活用 - 快適CUI生活のススメ/マイナビPython連載83回目が掲載されました! - 今日は秋晴れが爽やかですが、PCではPythonシェルが役立ちます😆\nhttps://news.mynavi.jp/article/zeropython-83/\n#python #プログラミング #IDLE #CUI"
+      }
+    ]
+  },
+  {
+    "timestamp": 1632275071,
+    "data": [
+      {
+        "post": "JavaScriptで手軽に文章校正textlintを使おう/マイナビJS連載11回目が掲載されました。 #js #textlint #文書校正 #執筆 #技術文書\nhttps://news.mynavi.jp/article/zerojavascript-11/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1632967759,
+    "data": [
+      {
+        "post": "トランプゲームの定番「七並べ」を作ってみようーマイナビ連載65回目掲載されました！カードをどうやって表現する？\nhttps://news.mynavi.jp/article/nadeshiko-65/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1633268784,
+    "data": [
+      {
+        "post": "なでしこv3.2.27にバージョンアップしました。主にバグ修正を行いました。助詞の前にある空白をエラーにしないようにする、「ならば」など助詞の前に空白があるとエラーになる問題を修正、「進数変換」命令を追加などなど。\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.27"
+      }
+    ]
+  },
+  {
+    "timestamp": 1633907613,
+    "data": [
+      {
+        "post": "Go言語のWebフレームワークGinで簡単Webアプリ開発/マイナビGo連載17回目が掲載されました。Ginの使い方を簡単に紹介します！ #golang #gin #framework\nhttps://news.mynavi.jp/article/gogogo-17/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1634443046,
+    "data": [
+      {
+        "post": "録り溜めたボイスメモをAI音声認識APIで一気にテキスト変換しよう/マイナビPython連載84回目が掲載されました。Speech to textを使って音声メモの自動書き起こしに挑戦します。#python #WebAPI #音声認識 #AI\nhttps://news.mynavi.jp/article/zeropython-84/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1634525393,
+    "data": [
+      {
+        "post": "本日、日本語プログラミング言語「なでしこ3(Web版)」をWin/Macのアプリとして配布できるパッケージの提供を開始しました。基本パッケージが圧縮して5MB程度と配布サイズも小さいので、なでしこで作ったゲームやツールを配布するのに最適です！\nhttps://nadesi.com/doc3/go.php?16421"
+      }
+    ]
+  },
+  {
+    "timestamp": 1635736838,
+    "data": [
+      {
+        "post": "新型MacのM1 ProへPythonをインストールしてベンチマークしてみよう/マイナビPythoh連載85回目が掲載されました！ #python #M1Pro  #MacBookPro2021\nhttps://news.mynavi.jp/article/zeropython-85/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636030248,
+    "data": [
+      {
+        "post": "なでしこ3配布パッケージを更新しました。バグを修正し、任意のアプリを起動できる「起動した時」命令を追加。また、Linuxでも問題なく動くことを確認しました。#なでしこさん #デスクトップアプリ\nhttps://nadesi.com/doc3/go.php?16421"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636331861,
+    "data": [
+      {
+        "post": "達人に愛され30年周年Vimを支えたVimScript - マイナビ連載が掲載されました！Vimほとんど触ったことないという人にもオススメです。\n #vim #プログラミング言語 #vi #テキストエディタ #vimscript\nhttps://news.mynavi.jp/article/programinglanguageoftheworld-37/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1636609130,
+    "data": [
+      {
+        "post": "なでしこv3.2.28をリリースしました。関数の使い方を間違えたときにヒントを表示する機能を追加し、「マークダウンHTML変換」など問題のあった命令を修正、「キャンバス作成」命令を追加しました。#なでしこさん #日本語プログラミング言語 #バージョンアップ\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.28"
+      }
+    ]
+  },
+  {
+    "timestamp": 1637038345,
+    "data": [
+      {
+        "post": "なでしこ配布キットを使ってデスクトップアプリを作ってみよう/マイナビ連載が掲載されました！\n#なでしこさん #プログラミング #デスクトップアプリ\nhttps://news.mynavi.jp/article/nadeshiko-66/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1637226718,
+    "data": [
+      {
+        "post": "JavaScript腕試し-Base64エンコーダーを自作してみよう/マイナビJavaScript連載が掲載されました！\n#プログラミング #スキルアップ #Base64 #JavaScript\nhttps://news.mynavi.jp/article/zerojavascript-12/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1638790417,
+    "data": [
+      {
+        "post": "Goのプログラミングでレトロな電子音楽を作ってみよう/マイナビGo言語連載18回目が掲載されました！Sine波で音楽を奏でましょう。WAVファイルの生成は簡単です。#golang #wav #電子音楽 #サイン波\nhttps://news.mynavi.jp/techplus/article/gogogo-18/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639009963,
+    "data": [
+      {
+        "post": "ブラウザで動くオルゴールを作ってみよう / マイナビGo言語連載19回目が掲載されました！意外に簡単、楽しい電子オルゴール造りに挑戦してみましょう！ #golang #電子音楽\nhttps://news.mynavi.jp/techplus/article/gogogo-19/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639311890,
+    "data": [
+      {
+        "post": "先日収録したSBCastの音声インタビューが公開されました。なでしこ開発について「楽しんでやること」というテーマでDJの高見さんと語りました。\nhttps://www.youtube.com/watch?v=9Ctu1pn9V0Y"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639467385,
+    "data": [
+      {
+        "post": "無料になったPower Automateはマウス操作で作業自動化できる言語 / マイナビ連載38回が掲載されました!  PADの基本を押さえます。 #PowerAutomate #RPA #ローコード #FizzBuzz\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-38/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1639716272,
+    "data": [
+      {
+        "post": "電子書籍リーダーで快適に読めるPDFをHTMLから生成しよう / マイナビPython連載86回目が掲載されました！Kindle/Koboなどで快適に読書するためのPDFを作ります！！ #pdf #EInk #python\nhttps://news.mynavi.jp/techplus/article/zeropython-86/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1640701246,
+    "data": [
+      {
+        "post": "なでしこv3.2.33をリリース！\n今回は簡単に複数の入力部品を作成できる「フォーム作成」や入力部品の値を辞書型で得る「フォーム入力一括取得」命令など便利な部品を大量追加しました。 #なでしこさん #バージョンアップ #日本語プログラミング言語\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.33"
+      }
+    ]
+  },
+  {
+    "timestamp": 1640941586,
+    "data": [
+      {
+        "post": "90日後はいつ？日付計算機を作ろう/マイナビなでしこ連載が掲載されました！日時計算はなでしこにお任せ！  #なでしこさん #日付計算 #日付電卓\nhttps://news.mynavi.jp/techplus/article/nadeshiko-67/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1641452439,
+    "data": [
+      {
+        "post": "グラフデータベースをCypherでデータを視覚化してデータを再発見しよう！ーマイナビ連載が掲載されました！グラフデータベース面白いです！！\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-39/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1642639180,
+    "data": [
+      {
+        "post": "祝🎉 著書『Rust 書きかた・作りかた』が絶賛発売中です！書店で手に取ってみてください。入魂の激アツ560ページ+付録PDF付です。次に学ぶべき言語1位のRustをPythonと比較しながら楽しく学習できます。ミニ言語作ったり、メッセンジャー作ったり、FM音源作ったりと実践的なサンプル満載です！\nhttps://amzn.to/3mnx9qe"
+      }
+    ]
+  },
+  {
+    "timestamp": 1642647405,
+    "data": [
+      {
+        "post": "小銭不足でも安心？！コインの\"組み合わせ計算\"をしてみよう/マイナビなでしこ連載68回目が掲載されました！ #なでしこさん\nhttps://news.mynavi.jp/techplus/article/nadeshiko-68/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1642758380,
+    "data": [
+      {
+        "post": "私の書いたRust本ですが、今見たらAmazonのプログラミング本の売り上げで7位に入ってました！Pythonの次に覚えたい言語Rustの学習に役立つ本です！\n560ページ＋副読PDF(20ページ前後)と、ものすごい厚みの本です。ぜひ、書店で眺めてみてください！なお、全ソースコードと付録のPDFは以下よりダウンロードできます。 #rust #python\nhttps://github.com/kujirahand/book-rust"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643370221,
+    "data": [
+      {
+        "post": "なでしこをv3.2.37にバージョンアップしました！今回の目玉は、大学入試に使われる仮想言語「DNCL」の互換実行モードの追加です。DNCLからなでしこの便利な命令が使えます。 #なでしこさん #DNCL #大学入試\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.2.37"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643610899,
+    "data": [
+      {
+        "post": "「部長、Power Automateでクリップボード拡張ツールを作ったよ」/ マイナビ 業務Hack連載16回目が掲載されました。 #PowerAutomate で簡単なツールを作ります。\nhttps://news.mynavi.jp/techplus/article/businesshack-16/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1643856486,
+    "data": [
+      {
+        "post": "Chrome拡張を作って30分でキーカスタマイズしよう / マイナビJS連載13回目  #Chrome の拡張機能の作成方法を紹介。簡単な拡張なら、ひな形を少し書き換えるだけなのでそれほど難しくなかったです。 #JS #Chrome拡張\nhttps://news.mynavi.jp/techplus/article/zerojavascript-13/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1644191624,
+    "data": [
+      {
+        "post": "スプレッドシートに記録した体重を5行のPythonでグラフ描画しよう/マイナビPython連載87回が掲載されました！Pythonでグラフ描画するのが簡単すぎる件について。 #python\nhttps://news.mynavi.jp/techplus/article/zeropython-87/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1646530096,
+    "data": [
+      {
+        "post": "マイナビ連載「ハッカー御用達の言語AWKはテキスト処理で今日も活躍中」が掲載されました！AWK最強。 #awk #プログラミング\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-40/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1646745767,
+    "data": [
+      {
+        "post": "以前、情報処理学会の学会誌に、日本語プログラミング言語について寄稿した時の感想が掲載されているのを教えてもらいました！とても好意的なコメントが多く、モチベーションアップ↑につながりました。そうそう、こういうコメントが読みたかった😆\nhttps://www.ipsj.or.jp/magazine/6205.html"
+      }
+    ]
+  },
+  {
+    "timestamp": 1646802181,
+    "data": [
+      {
+        "post": "マイナビなでしこ連載69回目「週末プロジェクトの予定表を作ろう」が掲載されました！週末だけの予定表を素早く作るプログラムを紹介します。\n #なでしこさん #プログラミング #週末ハック\nhttps://news.mynavi.jp/techplus/article/nadeshiko-69/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1648110642,
+    "data": [
+      {
+        "post": "5行で100個のフォルダを連続でZIP圧縮しようーマイナビ連載89回目が掲載されました！#chromebook #python PythonならZIP圧縮はファイルのコピー並みに簡単です。\nhttps://news.mynavi.jp/techplus/article/zeropython-89/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649254056,
+    "data": [
+      {
+        "post": "ブラウザからインストールできるアプリPWAを作ってみよう / マイナビJS連載14回目が掲載されました！ #JavaScript #PWA #オフライン\nhttps://news.mynavi.jp/techplus/article/zerojavascript-14/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649306780,
+    "data": [
+      {
+        "post": "「スキャンした100枚の画像が全部横向きに？助けてPower Automate」ーマイナビ連載業務ハック17回目が掲載されました！物語に新たな展開の予感？！ #RPA #自動化 #PowerAutomate #PowerShell\nhttps://news.mynavi.jp/techplus/article/businesshack-17/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649320047,
+    "data": [
+      {
+        "post": "久々に M1 MacでPararells Desktop試してみたら、かなり品質改善されて快適にWindows11(Arm版)が動くようになってました⭐\n数ヶ月前のバージョンでは、メニューすら開かない状態で酷かったのですが、Pararellsかなり頑張ってくれたようです！ 素晴らしいです。\nそれで、Windows11にRustをインストールして普通にコンパイルできました！以下インストールの記録をメモ。\nhttps://qiita.com/kujirahand/items/906b7d4151134688114c"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649466431,
+    "data": [
+      {
+        "post": "便利なメモアプリ「Notion」に「なでしこ3貯蔵庫」に投稿した作品のアプリページのURLを貼り付け「埋め込みを作成する」と、ウィジェットとしてNotion上で実行できます。なでしこ3とNotionを手軽に連携できて便利です！ #なでしこさん #ウィジェット #Notion\nhttps://n3s.nadesi.com/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649666882,
+    "data": [
+      {
+        "post": "田舎に住みたい？！人口密度ランキングを作成してみよう - なでしこ連載70回目が掲載されました。人口密度を計算して表とグラフを作成します。#なでしこさん #統計 #人口密度\nhttps://news.mynavi.jp/techplus/article/nadeshiko-70/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649723674,
+    "data": [
+      {
+        "post": "郵便番号CSVから住所を表示するツールを作ろう-マイナビGo連載20回目が掲載されました！ Webからのダウンロード、ZIP解凍、CSV処理の手法を解説します。 #golang #CSV #ZIP\nhttps://news.mynavi.jp/techplus/article/gogogo-20/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1649922320,
+    "data": [
+      {
+        "post": "Pythonのゲーム開発ライブラリPyGameを使ってみよう - Python連載90回目が掲載されました！ 今回は手軽にゲームが作れるPyGameの使い方を紹介します。\n#python #pygame #ゲーム開発 #迷路\nhttps://news.mynavi.jp/techplus/article/zeropython-90/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1651797259,
+    "data": [
+      {
+        "post": "マイナビ連載にて、テキスト音楽「サクラ」を紹介🌟MMLの歴史やFizzBuzz問題を紹介してます。末尾で作曲家の梅本竜さんとの思い出も少し書きました。\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-41/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1652091387,
+    "data": [
+      {
+        "post": "悪役令嬢とPower Automateで年齢早見表を作ろう/マイナビ業務課題Hackの連載18回目が掲載されました！物語にも大きな進展があります😆 #PowerAutomate #Excel自動処理\nhttps://news.mynavi.jp/techplus/article/businesshack-18/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1652665582,
+    "data": [
+      {
+        "post": "会議や講演ノートから印をつけた箇所だけ取り出してみよう/マイナビなでしこ連載が掲載されました！ 既にみんなやっていることですが改めてノート術+抽出プログラムを紹介。\n#なでしこさん #議事録 #プログラミング\nhttps://news.mynavi.jp/techplus/article/nadeshiko-71/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1652852682,
+    "data": [
+      {
+        "post": "CDNを利用して爆速Webアプリ - 無料CDNを使ってみよう その1/マイナビJS連載15回目が掲載されました！\n#js #プログラミング #cdn #Nodejs\nhttps://news.mynavi.jp/techplus/article/zerojavascript-15/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1653122632,
+    "data": [
+      {
+        "post": "なでしこ3.3.27テスト開始のお知らせ。先日、内部モジュール構造をCJSからESMに修正、さらに今回TypeScriptで書き換えました。内部構造を全面的に書き換えました😀また言語コアを再利用しやすくするため別モジュールに分けました！\n#なでしこさん\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.3.27"
+      }
+    ]
+  },
+  {
+    "timestamp": 1655260236,
+    "data": [
+      {
+        "post": "悪役令嬢がPower Automateで選択したファイルだけクラウドバックアップ / マイナビ業務ハック第19回目掲載されています。忙しすぎて呟くの忘れてましたが #PowerAutomate 使うと高度な条件を指定してバックアップが可能です。\nhttps://news.mynavi.jp/techplus/article/businesshack-19/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1655260424,
+    "data": [
+      {
+        "post": "自作Slackコマンド作成は簡単! 100円運用でチーム連携を強化しよう / マイナビ #python 連載91回目、掲載されました。#slack の独自コマンド、格安サーバでも簡単に作成できました。\nhttps://news.mynavi.jp/techplus/article/zeropython-91/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1655710433,
+    "data": [
+      {
+        "post": "JS、C#、Pythonなど複数言語を生成するFlash由来の言語Haxe / マイナビ連載-世界のプログラミング言語(42回目)が掲載されました！ 変換先ターゲットが豊富なのが嬉しいHaxeについて調べてみました。\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-42/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656167935,
+    "data": [
+      {
+        "post": "『C++言語によるお嬢様コーディングがブームの兆し!?』とのことで、なでしこでも、お嬢様コーディングができるか実験してみました😆\n(元記事) https://forest.watch.impress.co.jp/docs/serial/yajiuma/1419370.html\n(なでしこ嬢の場合) https://n3s.nadesi.com/id.php?1340"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656384531,
+    "data": [
+      {
+        "post": "日本語プログラミング言語「なでしこ」v3.3.57をリリースしました。\n実験的にインラインインデント機構を追加し、ファイルスコープ導入による不具合など多数修正。\nhttps://github.com/kujirahand/nadesiko3/releases/tag/3.3.57\n#なでしこさん"
+      }
+    ]
+  },
+  {
+    "timestamp": 1656900798,
+    "data": [
+      {
+        "post": "ファイル名をランダムに変更して音楽の再生順を変えよう / マイナビなでしこ連載72回目が掲載されました！ - プログラミングでBGM再生環境を快適にしようという回です。最近、なでしこ3のWindows版、インストールがより簡単になりました。 #なでしこさん #ライフハック #BGM\nhttps://news.mynavi.jp/techplus/article/nadeshiko-72/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657498499,
+    "data": [
+      {
+        "post": "教育向け言語LOGOから生まれたタートルグラフィックスで楽しく学ぼう / マイナビ世界の言語連載43回目掲載されました！いつの時代もお絵描きから始めるプログラミングが楽しいです。 #LOGO #タートルグラフィックス #python \nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-43/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657525220,
+    "data": [
+      {
+        "post": "『シゴトがはかどる Power Automate Desktop 自動化の教科書』を執筆しました。マウス操作で作業を自動化、Win10以降無料で使える #PoweAutomate についての本です。7/28発売で予約始まってます⭐よろしくお願いします。ちなみに、この表紙の男の人、私をイメージして描いてもらったとのこと似てるでしょうか？？？\n\n👇Amazon\nhttps://www.amazon.co.jp/dp/4839979510/ref=as_sl_pc_tf_til?tag=text2musiccom-22&linkCode=w00&linkId=97170724c87fa892e4a05732776c9586&creativeASIN=4839979510"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657603685,
+    "data": [
+      {
+        "post": "PowerAutmateでExcelのアンケートを集計しよう/マイナビ業務Hack20回目が掲載されました! #PowerAutomate #Excel自動化 #ケーキ\nhttps://news.mynavi.jp/techplus/article/businesshack-20/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1657775175,
+    "data": [
+      {
+        "post": "手軽にアンケートを共有できるサービスを数時間で作ってみました。Web APIで結果が受け取れるのが特徴です。良かったら使ってみてください。\nhttps://api.aoikujira.com/like/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1658310297,
+    "data": [
+      {
+        "post": "『シゴトがはかどるPower Automate Desktopの教科書』、見本が到着しました!! 来週7/28発売です。Excelやブラウザの自動化がとっても簡単になります。書店で見かけたら手に取ってみてください！ #RPA #自動化 #PowerAutomate #Excel \nhttps://amzn.to/3nXYHTu"
+      }
+    ]
+  },
+  {
+    "timestamp": 1658578760,
+    "data": [
+      {
+        "post": "PythonとGraphvizで簡単 - 手順書グラフを作ろう / マイナビPython連載92回目が掲載されました。Pythonを使うとGraphvizでグラフを作るのが簡単になります。Graphvizの使い方を解説します。\nhttps://news.mynavi.jp/techplus/article/zeropython-92/\n#python #graphviz #プログラミング"
+      }
+    ]
+  },
+  {
+    "timestamp": 1659754614,
+    "data": [
+      {
+        "post": "可読性と表現力の高いデータ形式「JSONC」を活用しようーマイナビJavaScript連載18回目が掲載されました！ JSONにコメントが書けるJSONCについて書きました。\n\nhttps://news.mynavi.jp/techplus/article/zerojavascript-18/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1660008548,
+    "data": [
+      {
+        "post": "シンプルで現代的なZig言語、RustやC++が複雑すぎると嘆く人の福音となるか/マイナビ連載 世界のプログラミング言語44回目が掲載されました！最近何かと話題になっているZigを取り上げてみました。#プログラミング言語 #ZigLang\nhttps://news.mynavi.jp/techplus/article/programinglanguageoftheworld-44/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1660303566,
+    "data": [
+      {
+        "post": "⭐今週は、IPAのセキュリティキャンプの講師をするという、とても良い経験ができました😀（基本的に話すのは苦手なので講師の仕事は軒並み断っていますが今回は例外的に引き受けました。）\n\n講師は最終的に優秀な生徒が書いた講義の感想レポートが読めるのですが、伝えたかったポイントを書いてくれていたので、かなり満足感ありました。講義の準備はとても大変でしたがやりがいありました！\n\nまた、基本的には一方的な語りと演習だったのですが、やはり生徒に考えさせる質問をして、挙手で答えてもらったところが、生徒の心に残っていたようで、みんなその点をレポートに書いていました。\n\n【思考を刺激する良い質問をすると記憶に残る】という大変良いフィードバックをもらい大満足の一週間でした⭐\nhttps://twitter.com/kujirahand/status/1556934845217275906\n#セキュリティキャンプ #講師"
+      }
+    ]
+  },
+  {
+    "timestamp": 1660712253,
+    "data": [
+      {
+        "post": "iPadを使って二人で遊べるリバーシを作ってみよう / マイナビなでしこ連載73回目が掲載されました。夏休みに家族でリバーシを作って楽しもう！ #なでしこさん #プログラミング入門 #夏休み\nhttps://news.mynavi.jp/techplus/article/nadeshiko-73/"
+      }
+    ]
+  },
+  {
+    "timestamp": 1662530283,
+    "data": [
+      {
+        "post": "Pythonでブラウザ自動化 - 画像を丸ごとダウンロードしよう/マイナビ連載93回目が掲載されました！面倒なドライバインストールが不要になってより便利になりました。 #python #scraping #selenium #ブラウザ自動化\nhttps://news.mynavi.jp/techplus/article/zeropython-93/"
+      }
+    ]
+  }
+]

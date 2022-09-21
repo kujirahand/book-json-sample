@@ -1,0 +1,7 @@
+digraph abc {
+	A
+	B
+	C
+	A -> B
+	A -> C
+}

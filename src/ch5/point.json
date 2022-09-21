@@ -1,0 +1,20 @@
+[
+  {
+    "salt": "da01352669d718bc788f0d76bd9b0448",
+    "name": "クジラ",
+    "email": "kujira@example.com",
+    "pw_hash": "59af4692c488e6b3bcf516fe79c9654da5151f199928b1f44c7f902d6ba94b7c",
+    "point": 1680,
+    "id": 1,
+    "token_hash": "2d3475134d16d09a3ca24d76c8b6ab56581b5fe18b12a05f1d4f6a4b9ce6544f"
+  },
+  {
+    "salt": "005851a641a438a58232982a72769338",
+    "name": "鈴木太郎",
+    "email": "taro@example.com",
+    "pw_hash": "ccf8c5fa72c83d2b8738a5a66af67ec08b91ced1bafd134b4b997435fcc471be",
+    "point": 500,
+    "id": 2,
+    "token_hash": "eb6f076281bc93baa7c0d92e80d9865da04c5ee5ed0e6d6ee1018f1d23b37f24"
+  }
+]

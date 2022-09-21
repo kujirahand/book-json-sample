@@ -1,0 +1,29 @@
+@startjson ジャンケン履歴
+[
+  {
+    "com": 1,
+    "user": 0,
+    "result": "勝ち"
+  },
+  {
+    "com": 0,
+    "user": 1,
+    "result": "負け"
+  },
+  {
+    "com": 2,
+    "user": 0,
+    "result": "負け"
+  },
+  {
+    "com": 1,
+    "user": 1,
+    "result": "あいこ"
+  },
+  {
+    "com": 2,
+    "user": 2,
+    "result": "あいこ"
+  }
+]
+@endjson

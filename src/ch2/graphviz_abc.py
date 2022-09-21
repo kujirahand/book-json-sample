@@ -1,0 +1,12 @@
+import json, graphviz, sys
+# Graphvizの準備 --- (※1)
+g = graphviz.Digraph('abc', format='svg', filename='abc')
+# A,B,Cのノードを作る --- (※2)
+g.node('A')
+g.node('B')
+g.node('C')
+# ノード同士を接続する --- (※3)
+g.edge('A', 'B')
+g.edge('A', 'C')
+# 保存して表示 --- (※4)
+g.view()

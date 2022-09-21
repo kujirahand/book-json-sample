@@ -1,0 +1,10 @@
+[table]
+key1 = 100
+key2 = "value2"
+
+[A.B.C]
+keyA = "valueA"
+keyB = 200
+
+[A.B.D]
+keyN = "valueN"

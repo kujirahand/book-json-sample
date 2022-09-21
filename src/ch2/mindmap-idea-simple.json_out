@@ -1,0 +1,10 @@
+digraph idea {
+	node [fontsize=46]
+	"赤い食べ物" [shape=doublecircle]
+	"ニンジン" [shape=oval]
+	"赤い食べ物" -> "ニンジン"
+	"イチゴ" [shape=oval]
+	"赤い食べ物" -> "イチゴ"
+	"トマト" [shape=oval]
+	"赤い食べ物" -> "トマト"
+}

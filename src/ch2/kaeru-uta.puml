@@ -1,0 +1,32 @@
+@startjson
+[
+  {
+    "note": 60,
+    "length": 240
+  },
+  {
+    "note": 62,
+    "length": 240
+  },
+  {
+    "note": 64,
+    "length": 240
+  },
+  {
+    "note": 65,
+    "length": 240
+  },
+  {
+    "note": 64,
+    "length": 240
+  },
+  {
+    "note": 62,
+    "length": 240
+  },
+  {
+    "note": 64,
+    "length": 480
+  }
+]
+@endjson

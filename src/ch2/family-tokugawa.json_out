@@ -1,0 +1,69 @@
+graph family {
+	node [dir=none shape=box]
+	rankdir=TB
+	rankdir=TB
+	{
+		graph [rank=same]
+		"徳川家康(初代将軍)" [fillcolor="#f0f0ff" style=filled]
+		"西郷局" [fillcolor="#fff0f0" style=filled]
+		"徳川家康(初代将軍)_西郷局" [shape=point]
+		"徳川家康(初代将軍)" -- "徳川家康(初代将軍)_西郷局" [dir=none]
+		"徳川家康(初代将軍)_西郷局" -- "西郷局" [dir=none]
+	}
+	"徳川家康(初代将軍)_西郷局_pc" [shape=point]
+	"徳川家康(初代将軍)_西郷局" -- "徳川家康(初代将軍)_西郷局_pc" [dir=none]
+	"秀忠(2代将軍)"
+	"徳川家康(初代将軍)_西郷局_pc" -- "秀忠(2代将軍)" [dir=none]
+	rankdir=TB
+	{
+		graph [rank=same]
+		"秀忠(2代将軍)" [fillcolor="#f0f0ff" style=filled]
+		"お江" [fillcolor="#fff0f0" style=filled]
+		"秀忠(2代将軍)_お江" [shape=point]
+		"秀忠(2代将軍)" -- "秀忠(2代将軍)_お江" [dir=none]
+		"秀忠(2代将軍)_お江" -- "お江" [dir=none]
+	}
+	"秀忠(2代将軍)_お江_pc" [shape=point]
+	"秀忠(2代将軍)_お江" -- "秀忠(2代将軍)_お江_pc" [dir=none]
+	"家光(3代将軍)"
+	"秀忠(2代将軍)_お江_pc" -- "家光(3代将軍)" [dir=none]
+	rankdir=TB
+	{
+		graph [rank=same]
+		"家光(3代将軍)" [fillcolor="#f0f0ff" style=filled]
+		"お楽の方" [fillcolor="#fff0f0" style=filled]
+		"家光(3代将軍)_お楽の方" [shape=point]
+		"家光(3代将軍)" -- "家光(3代将軍)_お楽の方" [dir=none]
+		"家光(3代将軍)_お楽の方" -- "お楽の方" [dir=none]
+	}
+	"家光(3代将軍)_お楽の方_pc" [shape=point]
+	"家光(3代将軍)_お楽の方" -- "家光(3代将軍)_お楽の方_pc" [dir=none]
+	"家綱(4代将軍)"
+	"家光(3代将軍)_お楽の方_pc" -- "家綱(4代将軍)" [dir=none]
+	rankdir=TB
+	{
+		graph [rank=same]
+		"家光(3代将軍)" [fillcolor="#f0f0ff" style=filled]
+		"お玉" [fillcolor="#fff0f0" style=filled]
+		"家光(3代将軍)_お玉" [shape=point]
+		"家光(3代将軍)" -- "家光(3代将軍)_お玉" [dir=none]
+		"家光(3代将軍)_お玉" -- "お玉" [dir=none]
+	}
+	"家光(3代将軍)_お玉_pc" [shape=point]
+	"家光(3代将軍)_お玉" -- "家光(3代将軍)_お玉_pc" [dir=none]
+	"綱吉(5代将軍)"
+	"家光(3代将軍)_お玉_pc" -- "綱吉(5代将軍)" [dir=none]
+	rankdir=TB
+	{
+		graph [rank=same]
+		"家光(3代将軍)" [fillcolor="#f0f0ff" style=filled]
+		"お夏" [fillcolor="#fff0f0" style=filled]
+		"家光(3代将軍)_お夏" [shape=point]
+		"家光(3代将軍)" -- "家光(3代将軍)_お夏" [dir=none]
+		"家光(3代将軍)_お夏" -- "お夏" [dir=none]
+	}
+	"家光(3代将軍)_お夏_pc" [shape=point]
+	"家光(3代将軍)_お夏" -- "家光(3代将軍)_お夏_pc" [dir=none]
+	"綱重"
+	"家光(3代将軍)_お夏_pc" -- "綱重" [dir=none]
+}

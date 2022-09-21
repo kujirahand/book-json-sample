@@ -1,0 +1,4 @@
+flask
+pyqrcode
+pypng
+kudb

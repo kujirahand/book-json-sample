@@ -1,0 +1,8 @@
+@startjson
+[
+  {"led1": true, "led2": true, "delay": 0.5},
+  {"led1": false, "led2": false, "delay": 0.5},
+  {"led1": true, "led2": false, "delay": 1},
+  {"led1": false, "led2": true, "delay": 1}
+]
+@endjson
