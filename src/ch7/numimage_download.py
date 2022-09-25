@@ -14,7 +14,7 @@ for name in ['train', 'test']:
     print(url)
     urllib.request.urlretrieve(url, save_file)
     # ラベルデータ
-    url = base + '/qmnist-{}-labels.tsv.gz'.format(name)
+    url = base + '/qmnist-{}-labels-idx2-int.gz'.format(name)
     save_file = SAVE_DIR + '/{}-labels.gz'.format(name)
     print(url)
     urllib.request.urlretrieve(url, save_file)
