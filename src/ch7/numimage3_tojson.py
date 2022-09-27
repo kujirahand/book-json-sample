@@ -3,7 +3,7 @@ SAVE_DIR = './images'
 def main():
     # 学習用データ(train)とテスト用データ(test)を順に読む --- (※1)
     for data_type in ['train', 'test']:
-        jsonfile = data_type + '-numimage.json'
+        jsonfile = os.path.join(SAVE_DIR, data_type + '-numimage.json')
         # ラベルデータと画像データを読む --- (※2)
         labels = read_idx2(data_type)
         images = read_idx3(data_type)
@@ -45,7 +45,7 @@ def read_idx2(data_type):
         num_images = read_i32(fp)
         num_cols = read_i32(fp)
         if num_cols != 8:
-            print('load error:', in_label_file)
+            print('load error:', infile)
             quit()
         # 繰り返しラベルデータを読む --- (※10)
         for i in range(num_images):
