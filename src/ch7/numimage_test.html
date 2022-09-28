@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta charset="utf-8"><body>
+  <!-- UI部分をHTMLで記述 ---(※1) -->
   <button onclick="clearData()">初期化</button><br>
   <canvas id="cv" width="280" height="280"
     style="border:1px solid silver"></canvas>
@@ -11,12 +12,12 @@ const cv = document.getElementById('cv')
 const ctx = cv.getContext('2d')
 const info = document.getElementById('info')
 const w = 10 // タイルのサイズ
-let data = []; clearData() // 描画データを初期化
+let data = []; clearData() // 描画データを初期化 --- (※2)
 function clearData () {
     data = Array(28 * 28).fill(0)
     drawImage(data)
 }
-// マウスイベントを指定 --- (※1)
+// マウスイベントを指定 --- (※3)
 let flag = false
 cv.onmousedown = (e) => { flag = true; putCanvas(e) }
 cv.onmouseup = (e) => { flag = false; putCanvas(e) }
@@ -27,12 +28,12 @@ function putCanvas (e) {
     data[y * 28 + x] = 1
     if (y <= 26) { data[y * 28 + x + 1] = 1 }
     drawImage(data)
-    // サーバーに描画データを送信して結果を表示 --- (※2)
+    // サーバーに描画データを送信して結果を表示 --- (※4)
     fetch(apiurl + data.join(''))
     .then(res => res.text())
     .then((s) => info.innerHTML = '[' + s + ']です')
 }
-function drawImage (data) { // キャンバスに描画 --- (※3)
+function drawImage (data) { // キャンバスに描画 --- (※5)
     for (let y = 0; y < 28; y++) {
         for (let x = 0; x < 28; x++) {
             ctx.fillStyle = data[y*28+x] ? '#000' : '#fff'
