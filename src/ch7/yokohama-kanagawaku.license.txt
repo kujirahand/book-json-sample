@@ -1,0 +1,7 @@
+ファイル名: yokohama-kanagawaku.csv
+出典：不動産取引価格情報　国土交通省
+期間：2015年第1四半期から2022年第1四半期まで
+
+土地総合情報システム > 不動産取引価格情報 > ダウンロード
+[URL] https://www.land.mlit.go.jp/webland/download.html
+
