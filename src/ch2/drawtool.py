@@ -16,7 +16,7 @@ def main():
     button.pack()
     # マウスイベントの設定 --- (※3)
     canvas.bind('<Button-1>', mouse_down) # マウスボタンを押した時
-    canvas.bind('<ButtonRelease-1>', mouse_up) # 離した時
+    canvas.bind('<ButtonRelease-1>', mouse_up) # 放した時
     canvas.bind('<Motion>', mouse_move) # カーソル動かした時
     load_file()
     draw_screen()
@@ -43,7 +43,7 @@ def mouse_down(e): # マウスボタンを押した時 --- (※8)
     pos = [e.x, e.y]
     is_mouse_down = True
 
-def mouse_up(e): # マウスボタンを離した時 --- (※9)
+def mouse_up(e): # マウスボタンを放した時 --- (※9)
     global is_mouse_down
     mouse_move(e)
     save_file()
