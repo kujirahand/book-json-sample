@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 import time, os, json
 
-# ブラウザで指定するダウンロードフォルダを以下に指定する★ --- (※1)
+# ブラウザで指定するダウンロードフォルダを以下に指定する --- (※1)
 if 'USERPROFILE' in os.environ:
     HOME_DIR = os.environ['USERPROFILE'] # Windowsの場合
 else:

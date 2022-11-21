@@ -30,7 +30,7 @@ for li in soup.select('ul > li.name'):
 print('---')
 price = list(soup.select('#a2 > li.price'))[0]
 print("バナナの値段", price.text) # --- (※4a)
-prrice = list(soup.select('ul:nth-child(2) > li.price'))[0]
+price = list(soup.select('ul:nth-child(2) > li.price'))[0]
 print('バナナの値段', price.string) # --- (※4b)
 prices = list(soup.select('li.price'))
 print('バナナの値段', prices[1].text) # --- (※4c)
