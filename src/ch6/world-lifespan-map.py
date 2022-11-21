@@ -14,7 +14,7 @@ min_val = min([v for k,v in data.items()])
 cmap = plt.get_cmap('coolwarm')
 norm = plt.Normalize(vmin=min_val, vmax=max_val)
 coldata, agedata = {}, {}
-for ｃｎ, age in data.items():
+for cn, age in data.items():
     # 韓国とロシアの国名が地理データとマッチしないので微修正 --- (※3a)
     if cn == 'Republic of Korea': cn = 'South Korea'
     if cn == 'Russian Federation': cn = 'Russia'
