@@ -9,7 +9,7 @@ def admin_login_page():
     if pw != conf.ADMIN_PASSWORD:
         return '管理者パスワードが違います'
     session['admin'] = True # --- (※2)
-    return '管理者ログイン成功。会員証のQRLを読み込んでください。'
+    return '管理者ログイン成功。会員証のQRコードを読み込んでください。'
 
 # ログアウト処理 --- (※3)
 def admin_logout_page():
