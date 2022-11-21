@@ -90,7 +90,7 @@ def admin_users_page():
     if not is_admin(): return '管理者ログインしてください'
     # データベースの値を参照してユーザー一覧を表示
     s = '<h1>お客様一覧</h1>'
-    for user in kudb.get_all():
+    for user in kudb.get_all(): # --- (※21)
         s += '<div class="box">{} ({}ポイント)</div>'.format(
             html.escape(user['name']),
             user['point'])
