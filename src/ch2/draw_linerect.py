@@ -14,7 +14,7 @@ def main():
     canvas.pack(fill = tk.BOTH, expand = True)
     # データファイルを読む --- (※3)
     with open(filename, 'r', encoding='utf-8') as fp:
-        return json.load(fp)
+        data = json.load(fp)
     # 読み込んだ画像を描画 --- (※4)
     draw_screen(data)
     app.mainloop()
