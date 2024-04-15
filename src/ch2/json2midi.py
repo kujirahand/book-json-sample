@@ -4,7 +4,7 @@ def main():
     # JSONファイルを読む --- (※1)
     with open('kaeru-uta.json', encoding='utf-8') as fp:
         data = json.load(fp)
-    save_to_midi('kaeru-uta.mid')
+    save_to_midi(data, 'kaeru-uta.mid')
 
 def save_to_midi(data, midifile):
     # MIDIファイルを準備 --- (※2)
